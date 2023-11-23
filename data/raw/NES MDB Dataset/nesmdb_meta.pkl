@@ -1,0 +1,4730 @@
+(dp1
+S'282_RoboWarrior'
+p2
+(dp3
+S'composers'
+p4
+(lp5
+S'Takeaki Kunimoto'
+p6
+asS'download_url'
+p7
+Vhttp://vgmrips.net/files/NES/Robo_Warrior_(NES).zip
+p8
+ssS'270_Punch_Out__'
+p9
+(dp10
+g4
+(lp11
+S'Koji Kondo'
+p12
+asg7
+Vhttp://vgmrips.net/files/Arcade/Punch-Out!!_(Arcade).zip
+p13
+ssS'081_Dr_JekyllandMr_Hyde'
+p14
+(dp15
+g4
+(lp16
+S'Mendelssohn'
+p17
+aS'Michiharu Hasuya'
+p18
+asg7
+Vhttp://vgmrips.net/files/NES/Dr._Jekyll_and_Mr._Hyde_(NES).zip
+p19
+ssS'378_WaiWaiWorld2_SOS__ParsleyJou'
+p20
+(dp21
+g4
+(lp22
+S'Kenichi Matsubara'
+p23
+aS'Yuichi Sakakura'
+p24
+aS'Satoko Minami'
+p25
+asg7
+Vhttp://vgmrips.net/files/NES/Wai_Wai_World_2_-_SOS!!_Parsley_Jou_(Family_Computer).zip
+p26
+ssS'071_DigitalDevilStory_MegamiTensei'
+p27
+(dp28
+g4
+(lp29
+S'Tsukasa Masuko'
+p30
+asg7
+Vhttp://vgmrips.net/files/NES/Digital_Devil_Story_-_Megami_Tensei_(Family_Computer).zip
+p31
+ssS'004_98in1'
+p32
+(dp33
+g4
+(lp34
+S'Unknown'
+p35
+asg7
+Vhttp://vgmrips.net/files/NES/98_in_1_(NES).zip
+p36
+ssS'399_YumeKoujou_DokiDokiPanic'
+p37
+(dp38
+g4
+(lp39
+S'Koji Kondo'
+p40
+asg7
+Vhttp://vgmrips.net/files/NES/Yume_Koujou_-_Doki_Doki_Panic_(Family_Computer_Disk_System).zip
+p41
+ssS'389_WreckingCrew'
+p42
+(dp43
+g4
+(lp44
+S'Hirokazu Tanaka'
+p45
+asg7
+Vhttp://vgmrips.net/files/NES/Wrecking_Crew_(NES).zip
+p46
+ssS'248_MusashinoKen_TadaimaShugyouChuu'
+p47
+(dp48
+g4
+(lp49
+S'Unknown'
+p50
+asg7
+Vhttp://vgmrips.net/files/NES/Musashi_no_Ken_-_Tadaima_Shugyou_Chuu_(NES).zip
+p51
+ssS'314_SummerCarnival_92_Recca'
+p52
+(dp53
+g4
+(lp54
+S'Nobuyuki Shioda'
+p55
+asg7
+Vhttp://vgmrips.net/files/NES/Summer_Carnival_'92_-_Recca_(Family_Computer).zip
+p56
+ssS'112_FantasyZone'
+p57
+(dp58
+g4
+(lp59
+S'Hiroshi Kawaguchi'
+p60
+aS'Masaharu Iwata'
+p61
+asg7
+Vhttp://vgmrips.net/files/NES/Fantasy_Zone_(NES)_Tengen.zip
+p62
+ssS'092_DuckHunt'
+p63
+(dp64
+g4
+(lp65
+S'Hirokazu Tanaka'
+p66
+asg7
+Vhttp://vgmrips.net/files/NES/Duck_Hunt_(NES).zip
+p67
+ssS'397_YsII_AncientYsVanishedTheFinalChapter'
+p68
+(dp69
+g4
+(lp70
+S'Hideya Nagata'
+p71
+aS'Masaaki Harada'
+p72
+aS'Mieko Ishikawa'
+p73
+aS'Osamu Kasai'
+p74
+aS'Shinji Nakayama'
+p75
+aS'Yuzo Koshiro'
+p76
+asg7
+Vhttp://vgmrips.net/files/NES/Ys_II_-_Ancient_Ys_Vanished_The_Final_Chapter_(Family_Computer).zip
+p77
+ssS'063_Deathbots'
+p78
+(dp79
+g4
+(lp80
+S'Mike Smith'
+p81
+asg7
+Vhttp://vgmrips.net/files/NES/Deathbots_(NES).zip
+p82
+ssS'078_Doraemon'
+p83
+(dp84
+g4
+(lp85
+S'Jun Chikuma'
+p86
+aS'Shunsuke Kikuchi'
+p87
+asg7
+Vhttp://vgmrips.net/files/NES/Doraemon_(Family_Computer).zip
+p88
+ssS'294_SidePocket'
+p89
+(dp90
+g4
+(lp91
+S'K. Suzuki'
+p92
+asg7
+Vhttp://vgmrips.net/files/NES/Side_Pocket_(NES).zip
+p93
+ssS'025_BatmanReturns'
+p94
+(dp95
+g4
+(lp96
+S'Shigemasa Matsuo'
+p97
+aS'Takashi Tateishi'
+p98
+asg7
+Vhttp://vgmrips.net/files/NES/Batman_Returns_(NES).zip
+p99
+ssS'284_RollingThunder'
+p100
+(dp101
+g4
+(lp102
+S'Junko Ozawa'
+p103
+aS'Unknown'
+p104
+asg7
+Vhttp://vgmrips.net/files/NES/Rolling_Thunder_(NES).zip
+p105
+ssS'182_KanshakuTamanageKantarounoTokaidoGojusanTsugi'
+p106
+(dp107
+g4
+(lp108
+S'Unknown'
+p109
+asg7
+Vhttp://vgmrips.net/files/NES/Kanshaku_Tamanage_Kantarou_no_Tokaido_Gojusan_Tsugi_(NES).zip
+p110
+ssS'313_Strider'
+p111
+(dp112
+g4
+(lp113
+S'Harumi Fujita'
+p114
+asg7
+Vhttp://vgmrips.net/files/NES/Strider_(NES).zip
+p115
+ssS'114_Faxanadu'
+p116
+(dp117
+g4
+(lp118
+S'Jun Chikuma'
+p119
+asg7
+Vhttp://vgmrips.net/files/NES/Faxanadu_(NES).zip
+p120
+ssS'157_HikariShinwa_PalutenanoKagami'
+p121
+(dp122
+g4
+(lp123
+S'Hirokazu Tanaka'
+p124
+asg7
+Vhttp://vgmrips.net/files/NES/Hikari_Shinwa_-_Palutena_no_Kagami_(Family_Computer_Disk_System).zip
+p125
+ssS'329_SwordMaster'
+p126
+(dp127
+g4
+(lp128
+S'Shotaro Sasaki'
+p129
+asg7
+Vhttp://vgmrips.net/files/NES/Sword_Master_(NES).zip
+p130
+ssS'022_BabelnoTou'
+p131
+(dp132
+g4
+(lp133
+S'Norio Nakagata'
+p134
+asg7
+Vhttp://vgmrips.net/files/NES/Babel_no_Tou_(NES).zip
+p135
+ssS'240_Milon_sSecretCastle'
+p136
+(dp137
+g4
+(lp138
+S'Daisuke Inoue'
+p139
+aS'Takeaki Kunimoto'
+p140
+asg7
+Vhttp://vgmrips.net/files/NES/Milon's_Secret_Castle_(NES).zip
+p141
+ssS'213_MachRider'
+p142
+(dp143
+g4
+(lp144
+S'Hideki Kanazashi'
+p145
+asg7
+Vhttp://vgmrips.net/files/NES/Mach_Rider_(NES).zip
+p146
+ssS'239_Millipede'
+p147
+(dp148
+g4
+(lp149
+S'Yukio Kaneoka'
+p150
+asg7
+Vhttp://vgmrips.net/files/NES/Millipede_(NES).zip
+p151
+ssS'156_HigemaruMakaijima_NanatsunoShimaDaibouken'
+p152
+(dp153
+g4
+(lp154
+S'Harumi Fujita'
+p155
+aS'Yoshihiro Sakaguchi'
+p156
+asg7
+Vhttp://vgmrips.net/files/NES/Higemaru_Makaijima_-_Nanatsu_no_Shima_Daibouken_(NES).zip
+p157
+ssS'198_KungFu'
+p158
+(dp159
+g4
+(lp160
+S'Koji Kondo'
+p161
+aS'Unknown'
+p162
+asg7
+Vhttp://vgmrips.net/files/NES/Kung_Fu_(NES).zip
+p163
+ssS'252_NintendoWorldChampionships1990'
+p164
+(dp165
+g4
+(lp166
+S'Unknown'
+p167
+asg7
+Vhttp://vgmrips.net/files/NES/Nintendo_World_Championships_1990_(NES).zip
+p168
+ssS'223_Maxi15'
+p169
+(dp170
+g4
+(lp171
+S'Mike Smith'
+p172
+asg7
+Vhttp://vgmrips.net/files/NES/Maxi_15_(NES).zip
+p173
+ssS'395_YoukaiDouchuuki'
+p174
+(dp175
+g4
+(lp176
+S'Hiroyuki Kawada'
+p177
+aS'Joyful Ide'
+p178
+aS'Masakatsu Maekawa'
+p179
+asg7
+Vhttp://vgmrips.net/files/NES/Youkai_Douchuuki_(NES).zip
+p180
+ssS'144_GingaDenshou_GalaxyOdyssey'
+p181
+(dp182
+g4
+(lp183
+S'Tsukasa Masuko'
+p184
+asg7
+Vhttp://vgmrips.net/files/NES/Ginga_Denshou_-_Galaxy_Odyssey_(Family_Computer_Disk_System).zip
+p185
+ssS'379_WardnernoMori'
+p186
+(dp187
+g4
+(lp188
+S'Osamu Ohta'
+p189
+aS'Unknown'
+p190
+asg7
+Vhttp://vgmrips.net/files/NES/Wardner_no_Mori_(FDS).zip
+p191
+ssS'191_Kirby_sAdventure'
+p192
+(dp193
+g4
+(lp194
+S'Hirokazu Ando'
+p195
+aS'Jun Ishikawa'
+p196
+asg7
+Vhttp://vgmrips.net/files/NES/Kirby's_Adventure_(NES).zip
+p197
+ssS'327_SuperStarForce_JikuurekinoHimitsu'
+p198
+(dp199
+g4
+(lp200
+S'Mikio Saito'
+p201
+asg7
+Vhttp://vgmrips.net/files/NES/Super_Star_Force_-_Jikuureki_no_Himitsu_(NES).zip
+p202
+ssS'405_ZombieNation'
+p203
+(dp204
+g4
+(lp205
+S'Norio Nakagata'
+p206
+aS'Takane Ohkubo'
+p207
+asg7
+Vhttp://vgmrips.net/files/NES/Zombie_Nation_(NES).zip
+p208
+ssS'052_Choplifter'
+p209
+(dp210
+g4
+(lp211
+S'Unknown'
+p212
+asg7
+Vhttp://vgmrips.net/files/NES/Choplifter_(NES).zip
+p213
+ssS'269_ProYakyuu_FamilyStadium_88'
+p214
+(dp215
+g4
+(lp216
+S'Junko Ozawa'
+p217
+asg7
+Vhttp://vgmrips.net/files/NES/Pro_Yakyuu_-_Family_Stadium_'88_(NES).zip
+p218
+ssS'217_MajouDensetsuII_DaimashikyouGalious'
+p219
+(dp220
+g4
+(lp221
+S'Atsushi Fujio'
+p222
+aS'Hidenori Maezawa'
+p223
+aS'Kazuhiko Uehara'
+p224
+aS'Kinuyo Yamashita'
+p225
+aS'Kiyohiro Sada'
+p226
+aS'Shinya Sakamoto'
+p227
+asg7
+Vhttp://vgmrips.net/files/NES/Majou_Densetsu_II_-_Daimashikyou_Galious_(Family_Computer).zip
+p228
+ssS'323_SuperMarioBros_2'
+p229
+(dp230
+g4
+(lp231
+S'Koji Kondo'
+p232
+asg7
+Vhttp://vgmrips.net/files/NES/Super_Mario_Bros._2_(NES).zip
+p233
+ssS'047_CastlevaniaII_Simon_sQuest'
+p234
+(dp235
+g4
+(lp236
+S'Kenichi Matsubara'
+p237
+aS'Satoe Terashima'
+p238
+asg7
+Vhttp://vgmrips.net/files/NES/Castlevania_II_-_Simon's_Quest_(NES).zip
+p239
+ssS'301_Solstice_TheQuestfortheStaffofDemnos'
+p240
+(dp241
+g4
+(lp242
+S'Tim Follin'
+p243
+asg7
+Vhttp://vgmrips.net/files/NES/Solstice_-_The_Quest_for_the_Staff_of_Demnos_(NES).zip
+p244
+ssS'325_SuperMarioWorld'
+p245
+(dp246
+g4
+(lp247
+S'Chen Yi'
+p248
+aS'Koji Kondo'
+p249
+asg7
+Vhttp://vgmrips.net/files/NES/Super_Mario_World_(Dendy).zip
+p250
+ssS'287_S_C_A_T__SpecialCyberneticAttackTeam'
+p251
+(dp252
+g4
+(lp253
+S'Kiyohiro Sada'
+p254
+asg7
+Vhttp://vgmrips.net/files/NES/S.C.A.T._-_Special_Cybernetic_Attack_Team_(NES).zip
+p255
+ssS'024_Baseball'
+p256
+(dp257
+g4
+(lp258
+S'Yukio Kaneoka'
+p259
+asg7
+Vhttp://vgmrips.net/files/NES/Baseball_(NES).zip
+p260
+ssS'260_Pac_Mania'
+p261
+(dp262
+g4
+(lp263
+S'Hiroto Tomro'
+p264
+aS'Junko Ozawa'
+p265
+aS'Unknown'
+p266
+aS'Yuriko Keino'
+p267
+asg7
+Vhttp://vgmrips.net/files/NES/Pac-Mania_(NES).zip
+p268
+ssS'204_Lemmings'
+p269
+(dp270
+g4
+(lp271
+S'Brian Johnston'
+p272
+aS'Jonathan Dunn'
+p273
+aS'Tim Wright'
+p274
+aS'Various'
+p275
+asg7
+Vhttp://vgmrips.net/files/NES/Lemmings_(NES).zip
+p276
+ssS'344_TheGooniesII'
+p277
+(dp278
+g4
+(lp279
+S'Satoe Terashima'
+p280
+asg7
+Vhttp://vgmrips.net/files/NES/The_Goonies_II_(NES).zip
+p281
+ssS'221_MarioBros_'
+p282
+(dp283
+g4
+(lp284
+S'Yukio Kaneoka'
+p285
+asg7
+Vhttp://vgmrips.net/files/NES/Mario_Bros._(NES).zip
+p286
+ssS'179_JourneytoSilius'
+p287
+(dp288
+g4
+(lp289
+S'Naoki Kodaka'
+p290
+asg7
+Vhttp://vgmrips.net/files/NES/Journey_to_Silius_(NES).zip
+p291
+ssS'097_ExedExes'
+p292
+(dp293
+g4
+(lp294
+S'Tamayo Kawamoto'
+p295
+aS'Unknown'
+p296
+asg7
+Vhttp://vgmrips.net/files/NES/Exed_Exes_(NES).zip
+p297
+ssS'356_TimesofLore'
+p298
+(dp299
+g4
+(lp300
+S'Katsuhiro Hayashi'
+p301
+aS'Martin Galway'
+p302
+asg7
+Vhttp://vgmrips.net/files/NES/Times_of_Lore_(NES).zip
+p303
+ssS'056_CircusCharlie'
+p304
+(dp305
+g4
+(lp306
+S'Katsuya Ogawa'
+p307
+aS'Shinya Sakamoto'
+p308
+asg7
+Vhttp://vgmrips.net/files/NES/Circus_Charlie_(Family_Computer).zip
+p309
+ssS'304_SpaceHunter'
+p310
+(dp311
+g4
+(lp312
+S'Hiroyuki Masuno'
+p313
+asg7
+Vhttp://vgmrips.net/files/NES/Space_Hunter_(Family_Computer).zip
+p314
+ssS'030_BinaryLand'
+p315
+(dp316
+g4
+(lp317
+S'Unknown'
+p318
+aS'Various'
+p319
+asg7
+Vhttp://vgmrips.net/files/NES/Binary_Land_(NES).zip
+p320
+ssS'100_Falsion'
+p321
+(dp322
+g4
+(lp323
+S'Atsushi Fujio'
+p324
+aS'Shigehiro Takenouchi'
+p325
+aS'Shinya Sakamoto'
+p326
+asg7
+Vhttp://vgmrips.net/files/NES/Falsion_(Family_Computer_Disk_System).zip
+p327
+ssS'279_RoadFighter'
+p328
+(dp329
+g4
+(lp330
+S'Unknown'
+p331
+aS'Yoshinori Sasaki'
+p332
+asg7
+Vhttp://vgmrips.net/files/NES/Road_Fighter_(NES).zip
+p333
+ssS'315_SundayFunday'
+p334
+(dp335
+g4
+(lp336
+S'Roger Deforest'
+p337
+aS'Mark Harris'
+p338
+aS'Don Koch'
+p339
+asg7
+Vhttp://vgmrips.net/files/NES/Sunday_Funday_(NES).zip
+p340
+ssS'021_AtlantisnoNazo'
+p341
+(dp342
+g4
+(lp343
+S'Unknown'
+p344
+asg7
+Vhttp://vgmrips.net/files/NES/Atlantis_no_Nazo_(NES).zip
+p345
+ssS'330_TMNetwork_LiveinPowerBowl'
+p346
+(dp347
+g4
+(lp348
+S'Tetsuya Komuro'
+p349
+aS'Tsukasa Masuko'
+p350
+aS'TM Network'
+p351
+aS'Takashi Utsunomiya'
+p352
+aS'Naoto Kine'
+p353
+asg7
+Vhttp://vgmrips.net/files/NES/TM_Network_-_Live_in_Power_Bowl_(Family_Computer).zip
+p354
+ssS'104_FamicomJumpII_Saikyono7_nin'
+p355
+(dp356
+g4
+(lp357
+S'Satoshi Kadokura'
+p358
+asg7
+Vhttp://vgmrips.net/files/NES/Famicom_Jump_II_-_Saikyo_no_7-nin_(Family_Computer).zip
+p359
+ssS'044_CastleofDragon'
+p360
+(dp361
+g4
+(lp362
+S'Kouichi Ishibashi'
+p363
+aS'Shotaro Sasaki'
+p364
+asg7
+Vhttp://vgmrips.net/files/NES/Castle_of_Dragon_(NES).zip
+p365
+ssS'120_FinalMission'
+p366
+(dp367
+g4
+(lp368
+S'Kiyohiro Sada'
+p369
+asg7
+Vhttp://vgmrips.net/files/NES/Final_Mission_(Family_Computer).zip
+p370
+ssS'369_VS_NinjaJaJaMaru_kun'
+p371
+(dp372
+g4
+(lp373
+S'Unknown'
+p374
+asg7
+Vhttp://vgmrips.net/files/Arcade/VS_Ninja_JaJaMaru-kun_(VS_System).zip
+p375
+ssS'122_FireEmblem_AnkokuRyutoHikarinoTsurugi'
+p376
+(dp377
+g4
+(lp378
+S'Hirokazu Tanaka'
+p379
+aS'Yuka Tsujiyoko'
+p380
+asg7
+Vhttp://vgmrips.net/files/NES/Fire_Emblem_-_Ankoku_Ryu_to_Hikari_no_Tsurugi_(Family_Computer).zip
+p381
+ssS'149_GreenBeret'
+p382
+(dp383
+g4
+(lp384
+S'Iku Mizutani'
+p385
+aS'Satoe Terashima'
+p386
+aS'Shinya Sakamoto'
+p387
+aS'Masanori Adachi'
+p388
+asg7
+Vhttp://vgmrips.net/files/NES/Green_Beret_(NES).zip
+p389
+ssS'271_Puzznic'
+p390
+(dp391
+g4
+(lp392
+S'Unknown'
+p393
+asg7
+Vhttp://vgmrips.net/files/NES/Puzznic_(NES).zip
+p394
+ssS'062_DeadlyTowers'
+p395
+(dp396
+g4
+(lp397
+S'Yoshinobu Kasukawa'
+p398
+asg7
+Vhttp://vgmrips.net/files/NES/Deadly_Towers_(NES).zip
+p399
+ssS'110_Famista_93'
+p400
+(dp401
+g4
+(lp402
+S'Hiromi Shibano'
+p403
+aS'Yuriko Keino'
+p404
+asg7
+Vhttp://vgmrips.net/files/NES/Famista_'93_(NES).zip
+p405
+ssS'192_KiwiKraze'
+p406
+(dp407
+g4
+(lp408
+S'Geoff Follin'
+p409
+aS'Tim Follin'
+p410
+aS'Yasuko Yamada'
+p411
+asg7
+Vhttp://vgmrips.net/files/NES/Kiwi_Kraze_(NES).zip
+p412
+ssS'082_Dr_Mario'
+p413
+(dp414
+g4
+(lp415
+S'Hirokazu Tanaka'
+p416
+asg7
+Vhttp://vgmrips.net/files/NES/Dr._Mario_(NES).zip
+p417
+ssS'018_ArumananoKiseki'
+p418
+(dp419
+g4
+(lp420
+S'Kinuyo Yamashita'
+p421
+aS'Kji Murata'
+p422
+asg7
+Vhttp://vgmrips.net/files/NES/Arumana_no_Kiseki_(Nintendo_Famicom_Disk_System).zip
+p423
+ssS'073_DonkeyKong'
+p424
+(dp425
+g4
+(lp426
+S'Yukio Kaneoka'
+p427
+asg7
+Vhttp://vgmrips.net/files/NES/Donkey_Kong_(NES).zip
+p428
+ssS'153_Gyromite'
+p429
+(dp430
+g4
+(lp431
+S'Hirokazu Tanaka'
+p432
+asg7
+Vhttp://vgmrips.net/files/NES/Gyromite_(NES).zip
+p433
+ssS'258_P_O_W__PrisonersofWar'
+p434
+(dp435
+g4
+(lp436
+S'Kazuhiro Nishida'
+p437
+aS'Kikuko Hataya'
+p438
+aS'Toshikazu Tanaka'
+p439
+aS'Yoko Osaka'
+p440
+asg7
+Vhttp://vgmrips.net/files/NES/P.O.W._-_Prisoners_of_War_(NES).zip
+p441
+ssS'096_ExcitingBasket'
+p442
+(dp443
+g4
+(lp444
+S'Atsushi Fujio'
+p445
+asg7
+Vhttp://vgmrips.net/files/NES/Exciting_Basket_(Family_Computer_Disk_System).zip
+p446
+ssS'324_SuperMarioBros_3'
+p447
+(dp448
+g4
+(lp449
+S'Koji Kondo'
+p450
+asg7
+Vhttp://vgmrips.net/files/NES/Super_Mario_Bros._3_(NES).zip
+p451
+ssS'347_TheKarateKid'
+p452
+(dp453
+g4
+(lp454
+S'Hirohiko Takayama'
+p455
+aS'Tsukasa Masuko'
+p456
+asg7
+Vhttp://vgmrips.net/files/NES/The_Karate_Kid_(NES).zip
+p457
+ssS'264_Pinball'
+p458
+(dp459
+g4
+(lp460
+S'Unknown'
+p461
+asg7
+Vhttp://vgmrips.net/files/NES/Pinball_(NES).zip
+p462
+ssS'083_DraculaII_NoroinoFuuin'
+p463
+(dp464
+g4
+(lp465
+S'Kenichi Matsubara'
+p466
+aS'Satoe Terashima'
+p467
+asg7
+Vhttp://vgmrips.net/files/NES/Dracula_II_-_Noroi_no_Fuuin_(Family_Computer_Disk_System).zip
+p468
+ssS'058_Contra'
+p469
+(dp470
+g4
+(lp471
+S'Kazuki Muraoka'
+p472
+aS'Hidenori Maezawa'
+p473
+aS'Kiyohiro Sada'
+p474
+asg7
+Vhttp://vgmrips.net/files/NES/Contra_(NES).zip
+p475
+ssS'126_FlyingHero'
+p476
+(dp477
+g4
+(lp478
+S'Dota Ando'
+p479
+asg7
+Vhttp://vgmrips.net/files/NES/Flying_Hero_(NES).zip
+p480
+ssS'292_Shatterhand'
+p481
+(dp482
+g4
+(lp483
+S'Iku Mizutani'
+p484
+asg7
+Vhttp://vgmrips.net/files/NES/Shatterhand_(NES).zip
+p485
+ssS'170_IkariIII_TheRescue'
+p486
+(dp487
+g4
+(lp488
+S'Aran Lee'
+p489
+aS'Toshikazu Tanaka'
+p490
+asg7
+Vhttp://vgmrips.net/files/NES/Ikari_III_-_The_Rescue_(NES).zip
+p491
+ssS'366_Ufouria_TheSaga'
+p492
+(dp493
+g4
+(lp494
+S'Naoki Kodaka'
+p495
+aS'Nobuyuki Hara'
+p496
+aS'Shinichi Seya'
+p497
+asg7
+Vhttp://vgmrips.net/files/NES/Ufouria_-_The_Saga_(NES).zip
+p498
+ssS'288_SaintSeiya_OugonDensetsu'
+p499
+(dp500
+g4
+(lp501
+S'Hiroaki Matsuzawa'
+p502
+aS'Nobuo Yamada'
+p503
+aS'Unknown'
+p504
+asg7
+Vhttp://vgmrips.net/files/NES/Saint_Seiya_-_Ougon_Densetsu_(Family_Computer).zip
+p505
+ssS'281_RobertByrne_sPoolChallenge'
+p506
+(dp507
+g4
+(lp508
+S'Mike Smith'
+p509
+asg7
+Vhttp://vgmrips.net/files/NES/Robert_Byrne's_Pool_Challenge_(NES).zip
+p510
+ssS'285_Route16Turbo'
+p511
+(dp512
+g4
+(lp513
+S'Unknown'
+p514
+asg7
+Vhttp://vgmrips.net/files/NES/Route_16_Turbo_(NES).zip
+p515
+ssS'322_SuperMarioBros_'
+p516
+(dp517
+g4
+(lp518
+S'Koji Kondo'
+p519
+asg7
+Vhttp://vgmrips.net/files/NES/Super_Mario_Bros._(NES).zip
+p520
+ssS'220_MarbleMadness'
+p521
+(dp522
+g4
+(lp523
+S'Brad Fuller'
+p524
+aS'David Wise'
+p525
+aS'Hal Canon'
+p526
+asg7
+Vhttp://vgmrips.net/files/NES/Marble_Madness_(NES).zip
+p527
+ssS'070_DigDugII'
+p528
+(dp529
+g4
+(lp530
+S'Unknown'
+p531
+aS'Yuriko Keino'
+p532
+asg7
+Vhttp://vgmrips.net/files/NES/Dig_Dug_II_(NES).zip
+p533
+ssS'332_TakeshinoChousenjou'
+p534
+(dp535
+g4
+(lp536
+S'Unknown'
+p537
+asg7
+Vhttp://vgmrips.net/files/NES/Takeshi_no_Chousenjou_(Family_Computer).zip
+p538
+ssS'088_DragonWarrior'
+p539
+(dp540
+g4
+(lp541
+S'Koichi Sugiyama'
+p542
+asg7
+Vhttp://vgmrips.net/files/NES/Dragon_Warrior_(NES).zip
+p543
+ssS'072_DonDokoDon'
+p544
+(dp545
+g4
+(lp546
+S'K. Kawamuki'
+p547
+aS'Shiro Imaoka'
+p548
+aS'Yasuko Yamada'
+p549
+asg7
+Vhttp://vgmrips.net/files/NES/Don_Doko_Don_(NES).zip
+p550
+ssS'164_Hogan_sAlley'
+p551
+(dp552
+g4
+(lp553
+S'Hirokazu Tanaka'
+p554
+asg7
+Vhttp://vgmrips.net/files/NES/Hogan's_Alley_(NES).zip
+p555
+ssS'174_ImageFight'
+p556
+(dp557
+g4
+(lp558
+S'Masahiko Ishida'
+p559
+asg7
+Vhttp://vgmrips.net/files/NES/Image_Fight_(NES).zip
+p560
+ssS'117_FinalFantasy'
+p561
+(dp562
+g4
+(lp563
+S'Nobuo Uematsu'
+p564
+asg7
+Vhttp://vgmrips.net/files/NES/Final_Fantasy_(NES).zip
+p565
+ssS'089_DragonWarriorII'
+p566
+(dp567
+g4
+(lp568
+S'Koichi Sugiyama'
+p569
+asg7
+Vhttp://vgmrips.net/files/NES/Dragon_Warrior_II_(NES).zip
+p570
+ssS'215_Magician'
+p571
+(dp572
+g4
+(lp573
+S'Neil Baldwin'
+p574
+asg7
+Vhttp://vgmrips.net/files/NES/Magician_(NES).zip
+p575
+ssS'061_DarkLord'
+p576
+(dp577
+g4
+(lp578
+S'Shogo Sakai'
+p579
+aS'Takafumi Miura'
+p580
+aS'Yuji Suzuki'
+p581
+aS'Yusuke Takahama'
+p582
+aS'Seiji Momoi'
+p583
+asg7
+Vhttp://vgmrips.net/files/NES/Dark_Lord_(Family_Computer).zip
+p584
+ssS'267_Pooyan'
+p585
+(dp586
+g4
+(lp587
+S'Antonn Dvok'
+p588
+aS'Toshiyuki Sasagawa'
+p589
+aS'Unknown'
+p590
+asg7
+Vhttp://vgmrips.net/files/NES/Pooyan_(Family_Computer).zip
+p591
+ssS'176_InsectorX'
+p592
+(dp593
+g4
+(lp594
+S'Chisa Ichikawa'
+p595
+aS'Kenji Nishi'
+p596
+aS'Pinch Punch'
+p597
+aS'Yoshinori Ohashi'
+p598
+asg7
+Vhttp://vgmrips.net/files/NES/Insector_X_(Family_Computer).zip
+p599
+ssS'103_FamicomGrandPrixII_3DHotRally'
+p600
+(dp601
+g4
+(lp602
+S'Hideki Kanazashi'
+p603
+aS'Soyo Oka'
+p604
+asg7
+Vhttp://vgmrips.net/files/NES/Famicom_Grand_Prix_II_-_3D_Hot_Rally_(Famicom_Disk_System).zip
+p605
+ssS'131_Galaga'
+p606
+(dp607
+g4
+(lp608
+S'Hiroyuki Kawada'
+p609
+aS'Nobuyuki Ohnogi'
+p610
+asg7
+Vhttp://vgmrips.net/files/NES/Galaga_(NES).zip
+p611
+ssS'060_CrisisForce'
+p612
+(dp613
+g4
+(lp614
+S'Jun Chuma'
+p615
+aS'Kenichi Matsubara'
+p616
+aS'Yasuhiko Manno'
+p617
+asg7
+Vhttp://vgmrips.net/files/NES/Crisis_Force_(Family_Computer).zip
+p618
+ssS'244_MontyontheRun_MontynoDokiDokiDaisassou'
+p619
+(dp620
+g4
+(lp621
+S'Kazuo Sawa'
+p622
+aS'Rob Hubbard'
+p623
+asg7
+Vhttp://vgmrips.net/files/NES/Monty_on_the_Run_-_Monty_no_Doki_Doki_Daisassou_(Family_Computer_Disk_System).zip
+p624
+ssS'031_BioMiracleBokutteUpa'
+p625
+(dp626
+g4
+(lp627
+S'Kiyohiro Sada'
+p628
+aS'Kouji Murata'
+p629
+asg7
+Vhttp://vgmrips.net/files/NES/Bio_Miracle_Bokutte_Upa_(Family_Computer_Disk_System).zip
+p630
+ssS'388_Wizards_amp_Warriors'
+p631
+(dp632
+g4
+(lp633
+S'David Wise'
+p634
+asg7
+Vhttp://vgmrips.net/files/NES/Wizards_&_Warriors_(NES).zip
+p635
+ssS'372_Vs_BalloonFight'
+p636
+(dp637
+g4
+(lp638
+S'Hirokazu Tanaka'
+p639
+asg7
+Vhttp://vgmrips.net/files/Arcade/Vs._Balloon_Fight_(Nintendo_VS._System).zip
+p640
+ssS'161_HiryunoKenII_DragonnoTsubasa'
+p641
+(dp642
+g4
+(lp643
+S'Shunichi Mikame'
+p644
+aS'Unknown'
+p645
+aS'Yuki Kume'
+p646
+asg7
+Vhttp://vgmrips.net/files/NES/Hiryu_no_Ken_II_-_Dragon_no_Tsubasa_(Family_Computer).zip
+p647
+ssS'358_Town_amp_CountryII_Thrilla_sSurfari'
+p648
+(dp649
+g4
+(lp650
+S'Paul Webb'
+p651
+asg7
+Vhttp://vgmrips.net/files/NES/Town_&_Country_II_-_Thrilla's_Surfari_(NES).zip
+p652
+ssS'074_DonkeyKong3'
+p653
+(dp654
+g4
+(lp655
+S'Hirokazu Tanaka'
+p656
+aS'Nikolai Andreyevich Nikolai Rimsky-Korsakov'
+p657
+asg7
+Vhttp://vgmrips.net/files/Arcade/Donkey_Kong_3_(Arcade).zip
+p658
+ssS'359_Town_amp_CountrySurfDesigns_Wood_amp_WaterRage'
+p659
+(dp660
+g4
+(lp661
+S'Tsukasa Masuko'
+p662
+asg7
+Vhttp://vgmrips.net/files/NES/Town_&_Country_Surf_Designs_-_Wood_&_Water_Rage_(NES).zip
+p663
+ssS'147_Gradius'
+p664
+(dp665
+g4
+(lp666
+S'Miki Higashino'
+p667
+asg7
+Vhttp://vgmrips.net/files/NES/Gradius_(NES).zip
+p668
+ssS'219_Mappy'
+p669
+(dp670
+g4
+(lp671
+S'Nobuyuki Ohnogi'
+p672
+asg7
+Vhttp://vgmrips.net/files/NES/Mappy_(NES).zip
+p673
+ssS'238_MikeTyson_sPunch_Out__'
+p674
+(dp675
+g4
+(lp676
+S'Akito Nakatsuka'
+p677
+aS'Kenji Yamamoto'
+p678
+aS'Koji Kondo'
+p679
+aS'Various'
+p680
+aS'Yukio Kaneoka'
+p681
+asg7
+Vhttp://vgmrips.net/files/NES/Mike_Tyson's_Punch-Out!!_(NES).zip
+p682
+ssS'318_SuperDonkeyKong'
+p683
+(dp684
+g4
+(lp685
+S'David Wise'
+p686
+aS'Eveline Fischer'
+p687
+aS'Unknown'
+p688
+asg7
+Vhttp://vgmrips.net/files/NES/Super_Donkey_Kong_(Dendy).zip
+p689
+ssS'017_ArmWrestling'
+p690
+(dp691
+g4
+(lp692
+S'Koji Kondo'
+p693
+asg7
+Vhttp://vgmrips.net/files/Arcade/Arm_Wrestling_(Arcade).zip
+p694
+ssS'066_DestinyofanEmperor'
+p695
+(dp696
+g4
+(lp697
+S'Hiroshige Tonomura'
+p698
+asg7
+Vhttp://vgmrips.net/files/NES/Destiny_of_an_Emperor_(NES).zip
+p699
+ssS'203_LegacyofTheWizard'
+p700
+(dp701
+g4
+(lp702
+S'Mieko Ishikawa'
+p703
+aS'Yuzo Koshiro'
+p704
+asg7
+Vhttp://vgmrips.net/files/NES/Legacy_of_The_Wizard_(NES).zip
+p705
+ssS'068_Dezaemon'
+p706
+(dp707
+g4
+(lp708
+S'Kouichi Ishibashi'
+p709
+aS'Shotaro Sasaki'
+p710
+asg7
+Vhttp://vgmrips.net/files/NES/Dezaemon_(Family_Computer).zip
+p711
+ssS'010_AlienSyndrome'
+p712
+(dp713
+g4
+(lp714
+S'Noboru Machida'
+p715
+aS'Tohru Nakabayashi'
+p716
+asg7
+Vhttp://vgmrips.net/files/NES/Alien_Syndrome_(NES).zip
+p717
+ssS'396_YsIII_WanderersfromYs'
+p718
+(dp719
+g4
+(lp720
+S'Masaaki Harada'
+p721
+aS'Michiharu Hasuya'
+p722
+aS'Mieko Ishikawa'
+p723
+aS'Osamu Kasai'
+p724
+aS'Yuzo Koshiro'
+p725
+asg7
+Vhttp://vgmrips.net/files/NES/Ys_III_-_Wanderers_from_Ys_(Family_Computer).zip
+p726
+ssS'305_SpartanX2'
+p727
+(dp728
+g4
+(lp729
+S'Ikuko Mimori'
+p730
+asg7
+Vhttp://vgmrips.net/files/NES/Spartan_X_2_(Family_Computer).zip
+p731
+ssS'380_WaronWheels'
+p732
+(dp733
+g4
+(lp734
+S'Paul Webb'
+p735
+asg7
+Vhttp://vgmrips.net/files/NES/War_on_Wheels_(NES).zip
+p736
+ssS'312_Stinger'
+p737
+(dp738
+g4
+(lp739
+S'Kiyohiro Sada'
+p740
+aS'Shinya Sakamoto'
+p741
+asg7
+Vhttp://vgmrips.net/files/NES/Stinger_(NES).zip
+p742
+ssS'398_Ys_AncientYsVanishedOmen'
+p743
+(dp744
+g4
+(lp745
+S'Masaaki Harada'
+p746
+aS'Mieko Ishikawa'
+p747
+aS'Osamu Kasai'
+p748
+aS'Yuzo Koshiro'
+p749
+asg7
+Vhttp://vgmrips.net/files/NES/Ys_-_Ancient_Ys_Vanished_Omen_(Family_Computer).zip
+p750
+ssS'130_Fridaythe13th'
+p751
+(dp752
+g4
+(lp753
+S'Hirohiko Takayama'
+p754
+asg7
+Vhttp://vgmrips.net/files/NES/Friday_the_13th_(NES).zip
+p755
+ssS'225_MegaMan2'
+p756
+(dp757
+g4
+(lp758
+S'Manami Matsumae'
+p759
+aS'Takashi Tateishi'
+p760
+aS'Yoshihiro Sakaguchi'
+p761
+asg7
+Vhttp://vgmrips.net/files/NES/Mega_Man_2_(NES).zip
+p762
+ssS'208_LodeRunner'
+p763
+(dp764
+g4
+(lp765
+S'Isamu Hirano'
+p766
+asg7
+Vhttp://vgmrips.net/files/NES/Lode_Runner_(NES).zip
+p767
+ssS'190_King_sKnight'
+p768
+(dp769
+g4
+(lp770
+S'Nobuo Uematsu'
+p771
+asg7
+Vhttp://vgmrips.net/files/NES/King's_Knight_(NES).zip
+p772
+ssS'251_NinjaHattori_kun'
+p773
+(dp774
+g4
+(lp775
+S'Georges Bizet'
+p776
+aS'Jacques Offenbach'
+p777
+aS'Shunsuke Kikuchi'
+p778
+aS'Takeaki Kunimoto'
+p779
+asg7
+Vhttp://vgmrips.net/files/NES/Ninja_Hattori-kun_(Family_Computer).zip
+p780
+ssS'249_NazonoMurasamejou'
+p781
+(dp782
+g4
+(lp783
+S'Koji Kondo'
+p784
+asg7
+Vhttp://vgmrips.net/files/NES/Nazo_no_Murasamejou_(Family_Computer_Disk_System).zip
+p785
+ssS'275_RadRacer'
+p786
+(dp787
+g4
+(lp788
+S'Nobuo Uematsu'
+p789
+asg7
+Vhttp://vgmrips.net/files/NES/Rad_Racer_(NES).zip
+p790
+ssS'163_HittheIce'
+p791
+(dp792
+g4
+(lp793
+S'Hiroshige Tonomura'
+p794
+aS'Unknown'
+p795
+asg7
+Vhttp://vgmrips.net/files/NES/Hit_the_Ice_(NES).zip
+p796
+ssS'084_DragonBuster'
+p797
+(dp798
+g4
+(lp799
+S'Kouji Murata'
+p800
+aS'Yuriko Keino'
+p801
+asg7
+Vhttp://vgmrips.net/files/NES/Dragon_Buster_(NES).zip
+p802
+ssS'139_GenpeiToumaden_ComputerBoardgame'
+p803
+(dp804
+g4
+(lp805
+S'Norio Nakagata'
+p806
+asg7
+Vhttp://vgmrips.net/files/NES/Genpei_Toumaden_-_Computer_Boardgame_(NES).zip
+p807
+ssS'400_YuuMaze'
+p808
+(dp809
+g4
+(lp810
+S'Isao Mizuguchi'
+p811
+aS'Masahiko Takaki'
+p812
+aS'Noboru Koshinaka'
+p813
+asg7
+Vhttp://vgmrips.net/files/NES/Yuu_Maze_(Famicom_Disk_System).zip
+p814
+ssS'355_Tiger_Heli'
+p815
+(dp816
+g4
+(lp817
+S'Tatsuya Uemura'
+p818
+aS'Unknown'
+p819
+asg7
+Vhttp://vgmrips.net/files/NES/Tiger-Heli_(NES).zip
+p820
+ssS'335_TecmoCupSoccerGame'
+p821
+(dp822
+g4
+(lp823
+S'Hiroshi Uchiki'
+p824
+aS'Keiji Yamagishi'
+p825
+asg7
+Vhttp://vgmrips.net/files/NES/Tecmo_Cup_Soccer_Game_(NES).zip
+p826
+ssS'376_Vs_Hogan_sAlley'
+p827
+(dp828
+g4
+(lp829
+S'Hirokazu Tanaka'
+p830
+asg7
+Vhttp://vgmrips.net/files/Arcade/Vs._Hogan's_Alley_(Nintendo_Vs._Unisystem).zip
+p831
+ssS'101_FamicomBox'
+p832
+(dp833
+g4
+(lp834
+S'Unknown'
+p835
+asg7
+Vhttp://vgmrips.net/files/Arcade/FamicomBox_(Arcade).zip
+p836
+ssS'118_FinalFantasyII'
+p837
+(dp838
+g4
+(lp839
+S'Johann Strauss II'
+p840
+aS'Nobuo Uematsu'
+p841
+aS'Pyotr Ilyich Tchaikovsky'
+p842
+asg7
+Vhttp://vgmrips.net/files/NES/Final_Fantasy_II_(Family_Computer).zip
+p843
+ssS'116_FelixtheCat'
+p844
+(dp845
+g4
+(lp846
+S'Kunio Komatsu'
+p847
+aS'Yoki Shinjyuku'
+p848
+asg7
+Vhttp://vgmrips.net/files/NES/Felix_the_Cat_(NES).zip
+p849
+ssS'055_CircusCaper'
+p850
+(dp851
+g4
+(lp852
+S'Masaaki Harada'
+p853
+aS'Michiharu Hasuya'
+p854
+aS'Osamu Kasai'
+p855
+asg7
+Vhttp://vgmrips.net/files/NES/Circus_Caper_(NES).zip
+p856
+ssS'393_Yoshi'
+p857
+(dp858
+g4
+(lp859
+S'Junichi Masuda'
+p860
+asg7
+Vhttp://vgmrips.net/files/NES/Yoshi_(NES).zip
+p861
+ssS'311_StarshipHector'
+p862
+(dp863
+g4
+(lp864
+S'Takeaki Kunimoto'
+p865
+asg7
+Vhttp://vgmrips.net/files/NES/Starship_Hector_(NES).zip
+p866
+ssS'169_IceClimber'
+p867
+(dp868
+g4
+(lp869
+S'Akito Nakatsuka'
+p870
+asg7
+Vhttp://vgmrips.net/files/NES/Ice_Climber_(NES).zip
+p871
+ssS'193_Klax'
+p872
+(dp873
+g4
+(lp874
+S"David O'Riva"
+p875
+asg7
+Vhttp://vgmrips.net/files/NES/Klax_(NES).zip
+p876
+ssS'080_DoubleDribble'
+p877
+(dp878
+g4
+(lp879
+S'Atsushi Fujio'
+p880
+asg7
+Vhttp://vgmrips.net/files/NES/Double_Dribble_(NES).zip
+p881
+ssS'247_Ms_Pac_Man'
+p882
+(dp883
+g4
+(lp884
+S'Naoki Higashio'
+p885
+aS'Unknown'
+p886
+asg7
+Vhttp://vgmrips.net/files/NES/Ms._Pac-Man_(NES).zip
+p887
+ssS'293_Shinobi'
+p888
+(dp889
+g4
+(lp890
+S'Unknown'
+p891
+aS'Yasuhiro Kawakami'
+p892
+asg7
+Vhttp://vgmrips.net/files/NES/Shinobi_(NES).zip
+p893
+ssS'321_SuperLodeRunner'
+p894
+(dp895
+g4
+(lp896
+S'Ikuko Mimori'
+p897
+asg7
+Vhttp://vgmrips.net/files/NES/Super_Lode_Runner_(Family_Computer_Disk_System).zip
+p898
+ssS'211_M82GameSelectableWorkingProductDisplay'
+p899
+(dp900
+g4
+(lp901
+S'Hirokazu Tanaka'
+p902
+asg7
+Vhttp://vgmrips.net/files/M82 Game Selectable Working Product Display.zip
+p903
+ssS'278_Renegade'
+p904
+(dp905
+g4
+(lp906
+S'Kazuo Sawa'
+p907
+asg7
+Vhttp://vgmrips.net/files/NES/Renegade_(NES).zip
+p908
+ssS'159_HinoToriHououhen_GaounoBouken'
+p909
+(dp910
+g4
+(lp911
+S'Fumio Miyashita'
+p912
+aS'Hidenori Maezawa'
+p913
+aS'Iku Mizutani'
+p914
+aS'Kinuyo Yamashita'
+p915
+asg7
+Vhttp://vgmrips.net/files/NES/Hi_no_Tori_Hououhen_-_Gaou_no_Bouken_(Family_Computer).zip
+p916
+ssS'091_DragonWarriorIV'
+p917
+(dp918
+g4
+(lp919
+S'Koichi Sugiyama'
+p920
+asg7
+Vhttp://vgmrips.net/files/NES/Dragon_Warrior_IV_(NES).zip
+p921
+ssS'307_StarForce'
+p922
+(dp923
+g4
+(lp924
+S'Keiji Yamagishi'
+p925
+aS'Tsukasa Masuko'
+p926
+asg7
+Vhttp://vgmrips.net/files/NES/Star_Force_(NES).zip
+p927
+ssS'339_Tetris'
+p928
+(dp929
+g4
+(lp930
+S'Brad Fuller'
+p931
+asg7
+Vhttp://vgmrips.net/files/NES/Tetris_(NES,_Tengen).zip
+p932
+ssS'158_HikarinoSenshiPhoton_WakuseiZoldiasnoTatakai'
+p933
+(dp934
+g4
+(lp935
+S'Michiharu Hasuya'
+p936
+asg7
+Vhttp://vgmrips.net/files/NES/Hikari_no_Senshi_Photon_-_Wakusei_Zoldias_no_Tatakai_(Family_Computer).zip
+p937
+ssS'194_KnightMove'
+p938
+(dp939
+g4
+(lp940
+S'Hirokazu Tanaka'
+p941
+asg7
+Vhttp://vgmrips.net/files/NES/Knight_Move_(Family_Computer_Disk_System).zip
+p942
+ssS'265_PokerJ_ngl_ng'
+p943
+(dp944
+g4
+(lp945
+S'Unknown'
+p946
+asg7
+Vhttp://vgmrips.net/files/NES/Poker Jingling_(NES).zip
+p947
+ssS'093_DuckTales'
+p948
+(dp949
+g4
+(lp950
+S'Hiroshige Tonomura'
+p951
+asg7
+Vhttp://vgmrips.net/files/NES/DuckTales_(NES).zip
+p952
+ssS'338_TerraCresta'
+p953
+(dp954
+g4
+(lp955
+S'Kenji Yoshida'
+p956
+asg7
+Vhttp://vgmrips.net/files/NES/Terra_Cresta_(NES)_US.zip
+p957
+ssS'373_Vs_CluCluLand'
+p958
+(dp959
+g4
+(lp960
+S'Akito Nakatsuka'
+p961
+asg7
+Vhttp://vgmrips.net/files/NES/Vs._Clu_Clu_Land_(Vs._Unisystem).zip
+p962
+ssS'246_Mother'
+p963
+(dp964
+g4
+(lp965
+S'Akio Ohmori'
+p966
+aS'Hirokazu Tanaka'
+p967
+aS'Keiichi Suzuki'
+p968
+aS'Ritsuo Kamimura'
+p969
+asg7
+Vhttp://vgmrips.net/files/NES/Mother_(NES).zip
+p970
+ssS'129_FreedomForce'
+p971
+(dp972
+g4
+(lp973
+S'Naoki Kodaka'
+p974
+asg7
+Vhttp://vgmrips.net/files/NES/Freedom_Force_(NES).zip
+p975
+ssS'295_SilverSurfer'
+p976
+(dp977
+g4
+(lp978
+S'Geoff Follin'
+p979
+aS'Tim Follin'
+p980
+asg7
+Vhttp://vgmrips.net/files/NES/Silver_Surfer_(NES).zip
+p981
+ssS'172_IkariWarriorsII_VictoryRoad'
+p982
+(dp983
+g4
+(lp984
+S'Aran Lee'
+p985
+aS'Toshikazu Tanaka'
+p986
+asg7
+Vhttp://vgmrips.net/files/NES/Ikari_Warriors_II_-_Victory_Road_(NES).zip
+p987
+ssS'201_LanMaster'
+p988
+(dp989
+g4
+(lp990
+S'Alex Semenov'
+p991
+asg7
+Vhttp://vgmrips.net/files/NES/Lan_Master_(NES).zip
+p992
+ssS'291_ShadowoftheNinja'
+p993
+(dp994
+g4
+(lp995
+S'Iku Mizutani'
+p996
+aS'Koichi Yamanishi'
+p997
+asg7
+Vhttp://vgmrips.net/files/NES/Shadow_of_the_Ninja_(NES).zip
+p998
+ssS'008_AfterBurnerII'
+p999
+(dp1000
+g4
+(lp1001
+S'Hiroshi Kawaguchi'
+p1002
+aS'Naohisa Morota'
+p1003
+aS'Naoki Kodaka'
+p1004
+asg7
+Vhttp://vgmrips.net/files/NES/After_Burner_II_(NES).zip
+p1005
+ssS'232_MetalGear'
+p1006
+(dp1007
+g4
+(lp1008
+S'Kazuki Muraoka'
+p1009
+aS'Iku Mizutani'
+p1010
+aS'Motoaki Furukawa'
+p1011
+aS'Shigehiro Takenouchi'
+p1012
+asg7
+Vhttp://vgmrips.net/files/NES/Metal_Gear_(NES).zip
+p1013
+ssS'032_BioSenshiDan_IncreasertonoTatakai'
+p1014
+(dp1015
+g4
+(lp1016
+S'Tsukasa Masuko'
+p1017
+asg7
+Vhttp://vgmrips.net/files/NES/Bio_Senshi_Dan_-_Increaser_to_no_Tatakai_(Family_Computer).zip
+p1018
+ssS'105_FamicomJump_HeroRetsuden'
+p1019
+(dp1020
+g4
+(lp1021
+S'Haruki Adachi'
+p1022
+aS'Peru'
+p1023
+asg7
+Vhttp://vgmrips.net/files/NES/Famicom_Jump_-_Hero_Retsuden_(Family_Computer).zip
+p1024
+ssS'216_Mahjong'
+p1025
+(dp1026
+g4
+(lp1027
+S'Yukio Kaneoka'
+p1028
+asg7
+Vhttp://vgmrips.net/files/NES/Mahjong_(Family_Computer).zip
+p1029
+ssS'243_MonsterinmyPocket'
+p1030
+(dp1031
+g4
+(lp1032
+S'Hiroshi Takeyasu'
+p1033
+aS'Kozo Nakamura'
+p1034
+asg7
+Vhttp://vgmrips.net/files/NES/Monster_in_my_Pocket_(NES).zip
+p1035
+ssS'162_HiryunoKenSpecial_FightingWars'
+p1036
+(dp1037
+g4
+(lp1038
+S'Shunichi Mikame'
+p1039
+aS'Unknown'
+p1040
+aS'Yuki Kume'
+p1041
+asg7
+Vhttp://vgmrips.net/files/NES/Hiryu_no_Ken_Special_-_Fighting_Wars_(Family_Computer).zip
+p1042
+ssS'382_Wayne_sWorld'
+p1043
+(dp1044
+g4
+(lp1045
+S'Paul Wilkinson'
+p1046
+asg7
+Vhttp://vgmrips.net/files/NES/Wayne's_World_(NES).zip
+p1047
+ssS'033_Blackjack'
+p1048
+(dp1049
+g4
+(lp1050
+S'Billy Joel'
+p1051
+aS'Mike Smith'
+p1052
+asg7
+Vhttp://vgmrips.net/files/NES/Blackjack_(NES).zip
+p1053
+ssS'013_AlterEgo'
+p1054
+(dp1055
+g4
+(lp1056
+S'Richard Armadijo'
+p1057
+asg7
+Vhttp://vgmrips.net/files/NES/Alter_Ego_(NES).zip
+p1058
+ssS'268_PowerBlade2'
+p1059
+(dp1060
+g4
+(lp1061
+S'Kinuyo Yamashita'
+p1062
+asg7
+Vhttp://vgmrips.net/files/NES/Power_Blade_2_(NES).zip
+p1063
+ssS'209_LotLot'
+p1064
+(dp1065
+g4
+(lp1066
+S'Unknown'
+p1067
+asg7
+Vhttp://vgmrips.net/files/NES/Lot_Lot_(NES).zip
+p1068
+ssS'180_Joust'
+p1069
+(dp1070
+g4
+(lp1071
+S'Yukio Kaneoka'
+p1072
+asg7
+Vhttp://vgmrips.net/files/NES/Joust_(NES).zip
+p1073
+ssS'340_Tetris'
+p1074
+(dp1075
+g4
+(lp1076
+S'Hiroshi Suzuki'
+p1077
+asg7
+Vhttp://vgmrips.net/files/NES/Tetris_(NES).zip
+p1078
+ssS'306_Spelunker'
+p1079
+(dp1080
+g4
+(lp1081
+S'Unknown'
+p1082
+asg7
+Vhttp://vgmrips.net/files/NES/Spelunker_(NES).zip
+p1083
+ssS'128_FormationZ'
+p1084
+(dp1085
+g4
+(lp1086
+S'Unknown'
+p1087
+asg7
+Vhttp://vgmrips.net/files/NES/Formation_Z_(NES).zip
+p1088
+ssS'075_DonkeyKong3'
+p1089
+(dp1090
+g4
+(lp1091
+S'Hirokazu Tanaka'
+p1092
+aS'Nikolai Andreyevich Nikolai Rimsky-Korsakov'
+p1093
+asg7
+Vhttp://vgmrips.net/files/NES/Donkey_Kong_3_(NES).zip
+p1094
+ssS'123_Fire_nIce'
+p1095
+(dp1096
+g4
+(lp1097
+S'Ryuichi Nitta'
+p1098
+asg7
+Vhttp://vgmrips.net/files/NES/Fire_'n_Ice_(NES).zip
+p1099
+ssS'310_StarWars_TheEmpireStrikesBack'
+p1100
+(dp1101
+g4
+(lp1102
+S'John Williams'
+p1103
+aS'Paul Webb'
+p1104
+asg7
+Vhttp://vgmrips.net/files/NES/Star_Wars_-_The_Empire_Strikes_Back_(NES).zip
+p1105
+ssS'183_Karnov'
+p1106
+(dp1107
+g4
+(lp1108
+S'Unknown'
+p1109
+asg7
+Vhttp://vgmrips.net/files/NES/Karnov_(NES).zip
+p1110
+ssS'283_Robocop'
+p1111
+(dp1112
+g4
+(lp1113
+S'Basil Poledouris'
+p1114
+aS'Masaaki Iwasaki'
+p1115
+aS'Shogo Sakai'
+p1116
+aS'Yuji Suzuki'
+p1117
+asg7
+Vhttp://vgmrips.net/files/NES/Robocop_(NES).zip
+p1118
+ssS'342_TheFlintstones_TheSurpriseatDinosaurPeak_'
+p1119
+(dp1120
+g4
+(lp1121
+S'S. Takahagi'
+p1122
+aS'M. Ogata'
+p1123
+asg7
+Vhttp://vgmrips.net/files/NES/The_Flintstones_-_The_Surprise_at_Dinosaur_Peak!_(NES).zip
+p1124
+ssS'276_RadiaSenki_ReimeiHen'
+p1125
+(dp1126
+g4
+(lp1127
+S'Kaori Nakabai'
+p1128
+aS'Keiji Yamagishi'
+p1129
+aS'Rika Shigeno'
+p1130
+asg7
+Vhttp://vgmrips.net/files/NES/Radia_Senki_-_Reimei_Hen_(NES).zip
+p1131
+ssS'143_Gimmick_'
+p1132
+(dp1133
+g4
+(lp1134
+S'Masashi Kageyama'
+p1135
+asg7
+Vhttp://vgmrips.net/files/NES/Gimmick!_(Family_Computer).zip
+p1136
+ssS'045_Castlevania'
+p1137
+(dp1138
+g4
+(lp1139
+S'Kinuyo Yamashita'
+p1140
+aS'Satoe Terashima'
+p1141
+asg7
+Vhttp://vgmrips.net/files/NES/Castlevania_(NES).zip
+p1142
+ssS'348_TheLegendofZelda'
+p1143
+(dp1144
+g4
+(lp1145
+S'Koji Kondo'
+p1146
+asg7
+Vhttp://vgmrips.net/files/NES/The_Legend_of_Zelda_(NES).zip
+p1147
+ssS'308_StarForce'
+p1148
+(dp1149
+g4
+(lp1150
+S'Tsukasa Masuko'
+p1151
+aS'Unknown'
+p1152
+asg7
+Vhttp://vgmrips.net/files/NES/Star_Force_(NES)_JP.zip
+p1153
+ssS'014_Argus'
+p1154
+(dp1155
+g4
+(lp1156
+S'Shinichi Sakamoto'
+p1157
+aS'Unknown'
+p1158
+asg7
+Vhttp://vgmrips.net/files/NES/Argus_(Family_Computer).zip
+p1159
+ssS'361_Transformers_ConvoynoNazo'
+p1160
+(dp1161
+g4
+(lp1162
+S'Unknown'
+p1163
+asg7
+Vhttp://vgmrips.net/files/NES/Transformers_-_Convoy_no_Nazo_(Family_Computer).zip
+p1164
+ssS'059_ContraForce'
+p1165
+(dp1166
+g4
+(lp1167
+S'Kenichi Matsubara'
+p1168
+aS'Tomoya Tomita'
+p1169
+aS'Yasuhiko Manno'
+p1170
+asg7
+Vhttp://vgmrips.net/files/NES/Contra_Force_(NES).zip
+p1171
+ssS'035_Bomberman'
+p1172
+(dp1173
+g4
+(lp1174
+S'June Chikuma'
+p1175
+asg7
+Vhttp://vgmrips.net/files/NES/Bomberman_(NES).zip
+p1176
+ssS'053_ChoujinSentaiJetman'
+p1177
+(dp1178
+g4
+(lp1179
+S'Hiroyuki Iwatsuki'
+p1180
+asg7
+Vhttp://vgmrips.net/files/NES/Choujin_Sentai_Jetman_(NES).zip
+p1181
+ssS'043_Castelian'
+p1182
+(dp1183
+g4
+(lp1184
+S'David Whittaker'
+p1185
+asg7
+Vhttp://vgmrips.net/files/NES/Castelian_(NES).zip
+p1186
+ssS'370_ValkyrienoBouken_TokinoKagiDensetsu'
+p1187
+(dp1188
+g4
+(lp1189
+S'Hiroyuki Kawada'
+p1190
+asg7
+Vhttp://vgmrips.net/files/NES/Valkyrie_no_Bouken_-_Toki_no_Kagi_Densetsu_(Family_Computer).zip
+p1191
+ssS'019_Ast_rix'
+p1192
+(dp1193
+g4
+(lp1194
+S'Alberto Jose Gonzlez'
+p1195
+asg7
+Vhttp://vgmrips.net/files/NES/Asterix_(NES).zip
+p1196
+ssS'337_TerraCresta'
+p1197
+(dp1198
+g4
+(lp1199
+S'Kenji Yoshida'
+p1200
+asg7
+Vhttp://vgmrips.net/files/NES/Terra_Cresta_(NES).zip
+p1201
+ssS'195_KonamiWaiWaiWorld'
+p1202
+(dp1203
+g4
+(lp1204
+S'Atsushi Fujio'
+p1205
+aS'Shigemasa Matsuo'
+p1206
+aS'Shinya Sakamoto'
+p1207
+asg7
+Vhttp://vgmrips.net/files/NES/Konami_Wai_Wai_World_(Family_Computer).zip
+p1208
+ssS'197_KujakuOuII'
+p1209
+(dp1210
+g4
+(lp1211
+S'Unknown'
+p1212
+asg7
+Vhttp://vgmrips.net/files/NES/Kujaku_Ou_II_(Family_Computer).zip
+p1213
+ssS'042_CaptainTsubasaVol_II_SuperStriker'
+p1214
+(dp1215
+g4
+(lp1216
+S'Keiji Yamagishi'
+p1217
+aS'Mayuko Okamura'
+p1218
+aS'Mikio Saito'
+p1219
+asg7
+Vhttp://vgmrips.net/files/NES/Captain_Tsubasa_Vol._II_-_Super_Striker_(NES).zip
+p1220
+ssS'303_SpaceHarrier'
+p1221
+(dp1222
+g4
+(lp1223
+S'Hiroshi Kawaguchi'
+p1224
+aS'Tokuhiko Uwabo'
+p1225
+aS'Unknown'
+p1226
+asg7
+Vhttp://vgmrips.net/files/NES/Space_Harrier_(NES).zip
+p1227
+ssS'214_MadoolanoTsubasa'
+p1228
+(dp1229
+g4
+(lp1230
+S'Unknown'
+p1231
+asg7
+Vhttp://vgmrips.net/files/NES/Madoola_no_Tsubasa_(NES).zip
+p1232
+ssS'383_Wily_amp_RightnoRockBoard_That_sParadise'
+p1233
+(dp1234
+g4
+(lp1235
+S'Manami Matsumae'
+p1236
+aS'Takashi Tateishi'
+p1237
+aS'Yuki Iwai'
+p1238
+asg7
+Vhttp://vgmrips.net/files/NES/Wily_&_Right_no_RockBoard_-_That's_Paradise_(Family_Computer).zip
+p1239
+ssS'222_MarusanoOnna'
+p1240
+(dp1241
+g4
+(lp1242
+S'Hiroshige Tonomura'
+p1243
+aS'Tamayo Kawamoto'
+p1244
+aS'Toshiyuki Honda'
+p1245
+aS'Toukichi Setoguchi'
+p1246
+asg7
+Vhttp://vgmrips.net/files/NES/Marusa_no_Onna_(Family_Computer).zip
+p1247
+ssS'064_DeepDungeonII_YuushinoMonshou'
+p1248
+(dp1249
+g4
+(lp1250
+S'Armadillo'
+p1251
+aS'Yoshikazu Kawauchi'
+p1252
+asg7
+Vhttp://vgmrips.net/files/NES/Deep_Dungeon_II_-_Yuushi_no_Monshou_(Family_Computer_Disk_System).zip
+p1253
+ssS'185_KickMaster'
+p1254
+(dp1255
+g4
+(lp1256
+S'Nobuyuki Shioda'
+p1257
+aS'Yusuke Takahama'
+p1258
+asg7
+Vhttp://vgmrips.net/files/NES/Kick_Master_(NES).zip
+p1259
+ssS'241_MiracleRopit_sAdventurein2100'
+p1260
+(dp1261
+g4
+(lp1262
+S'Yasunori Shiono'
+p1263
+aS'Michio Fujisawa'
+p1264
+asg7
+Vhttp://vgmrips.net/files/NES/Miracle_Ropit's_Adventure_in_2100_(NES).zip
+p1265
+ssS'039_BuraiFighter'
+p1266
+(dp1267
+g4
+(lp1268
+S'Norio Nakagata'
+p1269
+asg7
+Vhttp://vgmrips.net/files/NES/Burai_Fighter_(NES).zip
+p1270
+ssS'227_MegaMan4'
+p1271
+(dp1272
+g4
+(lp1273
+S'Manami Matsumae'
+p1274
+aS'Minae Fujii'
+p1275
+aS'Takashi Tateishi'
+p1276
+aS'Yasuaki Fujita'
+p1277
+asg7
+Vhttp://vgmrips.net/files/NES/Mega_Man_4_(NES).zip
+p1278
+ssS'289_SaintSeiya_OugonDensetsuKanketsuHen'
+p1279
+(dp1280
+g4
+(lp1281
+S'Hiroaki Matsuzawa'
+p1282
+aS'Nobuo Yamada'
+p1283
+aS'Unknown'
+p1284
+asg7
+Vhttp://vgmrips.net/files/NES/Saint_Seiya_-_Ougon_Densetsu_Kanketsu_Hen_(Family_Computer).zip
+p1285
+ssS'187_KidNiki_RadicalNinja'
+p1286
+(dp1287
+g4
+(lp1288
+S'Kouji Murata'
+p1289
+aS'Unknown'
+p1290
+asg7
+Vhttp://vgmrips.net/files/NES/Kid_Niki_-_Radical_Ninja_(NES).zip
+p1291
+ssS'086_DragonFighter'
+p1292
+(dp1293
+g4
+(lp1294
+S'Iku Mizutani'
+p1295
+aS'Koichi Yamanishi'
+p1296
+asg7
+Vhttp://vgmrips.net/files/NES/Dragon_Fighter_(NES).zip
+p1297
+ssS'320_SuperHIK300in1'
+p1298
+(dp1299
+g4
+(lp1300
+S'Alex North'
+p1301
+asg7
+Vhttp://vgmrips.net/files/NES/Super_HIK_300_in_1_(NES).zip
+p1302
+ssS'391_YieArKungFu'
+p1303
+(dp1304
+g4
+(lp1305
+S'Miki Higashino'
+p1306
+asg7
+Vhttp://vgmrips.net/files/NES/Yie_Ar_Kung_Fu_(NES).zip
+p1307
+ssS'171_IkariWarriors'
+p1308
+(dp1309
+g4
+(lp1310
+S'Mr. O'
+p1311
+asg7
+Vhttp://vgmrips.net/files/NES/Ikari_Warriors_(NES).zip
+p1312
+ssS'233_MetalMax'
+p1313
+(dp1314
+g4
+(lp1315
+S'Satoshi Kadokura'
+p1316
+asg7
+Vhttp://vgmrips.net/files/NES/Metal_Max_(Family_Computer).zip
+p1317
+ssS'168_Hydlide3_YamiKaranoHoumonsha'
+p1318
+(dp1319
+g4
+(lp1320
+S'Hiroshi Sakaguchi'
+p1321
+aS'Shigeru Tomita'
+p1322
+asg7
+Vhttp://vgmrips.net/files/NES/Hydlide_3_-_Yami_Kara_no_Houmonsha_(Family_Computer).zip
+p1323
+ssS'054_ChukaTaisen'
+p1324
+(dp1325
+g4
+(lp1326
+S'Planet2'
+p1327
+aS'Soul Duke'
+p1328
+aS'Unknown'
+p1329
+asg7
+Vhttp://vgmrips.net/files/NES/Chuka_Taisen_(Family_Computer).zip
+p1330
+ssS'309_StarSoldier'
+p1331
+(dp1332
+g4
+(lp1333
+S'Takeaki Kunimoto'
+p1334
+asg7
+Vhttp://vgmrips.net/files/NES/Star_Soldier_(NES).zip
+p1335
+ssS'316_SuperArabian'
+p1336
+(dp1337
+g4
+(lp1338
+S'Unknown'
+p1339
+asg7
+Vhttp://vgmrips.net/files/NES/Super_Arabian_(Family_Computer).zip
+p1340
+ssS'135_GanbareGoemonGaiden2_TenkanoZaih_'
+p1341
+(dp1342
+g4
+(lp1343
+S'Yuichi Sakakura'
+p1344
+aS'Yukie Morimoto'
+p1345
+asg7
+Vhttp://vgmrips.net/files/NES/Ganbare_Goemon_Gaiden_2_-_Tenka_no_Zaiho_(Family_Computer).zip
+p1346
+ssS'290_Seicross'
+p1347
+(dp1348
+g4
+(lp1349
+S'Kenji Yoshida'
+p1350
+aS'Unknown'
+p1351
+asg7
+Vhttp://vgmrips.net/files/NES/Seicross_(NES).zip
+p1352
+ssS'121_FireEmblemGaiden'
+p1353
+(dp1354
+g4
+(lp1355
+S'Yuka Tsujiyoko'
+p1356
+asg7
+Vhttp://vgmrips.net/files/NES/Fire_Emblem_Gaiden_(Family_Computer).zip
+p1357
+ssS'015_Arkanoid'
+p1358
+(dp1359
+g4
+(lp1360
+S'Hisayoshi Ogura'
+p1361
+aS'Tsukasa Masuko'
+p1362
+asg7
+Vhttp://vgmrips.net/files/NES/Arkanoid_(NES).zip
+p1363
+ssS'207_LittleRedHood'
+p1364
+(dp1365
+g4
+(lp1366
+S'Unknown'
+p1367
+asg7
+Vhttp://vgmrips.net/files/NES/Little_Red_Hood_(NES).zip
+p1368
+ssS'046_CastlevaniaIII_Dracula_sCurse'
+p1369
+(dp1370
+g4
+(lp1371
+S'Hidenori Maezawa'
+p1372
+aS'Jun Funahashi'
+p1373
+aS'Yoshinori Sasaki'
+p1374
+aS'Yukie Morimoto'
+p1375
+asg7
+Vhttp://vgmrips.net/files/NES/Castlevania_III_-_Dracula's_Curse_(NES).zip
+p1376
+ssS'253_Nobunaga_sAmbition'
+p1377
+(dp1378
+g4
+(lp1379
+S'Yoko Kanno'
+p1380
+asg7
+Vhttp://vgmrips.net/files/NES/Nobunaga's_Ambition_(NES).zip
+p1381
+ssS'392_Yo_Noid'
+p1382
+(dp1383
+g4
+(lp1384
+S'Unknown'
+p1385
+asg7
+Vhttp://vgmrips.net/files/NES/Yo!_Noid_(NES).zip
+p1386
+ssS'138_Gargoyle_sQuestII'
+p1387
+(dp1388
+g4
+(lp1389
+S'Sato'
+p1390
+aS'Yuki Iwai'
+p1391
+asg7
+Vhttp://vgmrips.net/files/NES/Gargoyle's_Quest_II_(NES).zip
+p1392
+ssS'230_Meiky_JiinDababa'
+p1393
+(dp1394
+g4
+(lp1395
+S'Kiyohiro Sada'
+p1396
+aS'Satoe Terashima'
+p1397
+aS'Shinya Sakamoto'
+p1398
+asg7
+Vhttp://vgmrips.net/files/NES/Meikyu_Jiin_Dababa_(Nintendo_Famicom_Disk_System).zip
+p1399
+ssS'141_Ghostbusters'
+p1400
+(dp1401
+g4
+(lp1402
+S'Unknown'
+p1403
+asg7
+Vhttp://vgmrips.net/files/NES/Ghostbusters_(NES).zip
+p1404
+ssS'124_FleetCommander'
+p1405
+(dp1406
+g4
+(lp1407
+S'Katsuhiro Hatano'
+p1408
+asg7
+Vhttp://vgmrips.net/files/NES/Fleet_Commander_(Family_Computer).zip
+p1409
+ssS'090_DragonWarriorIII'
+p1410
+(dp1411
+g4
+(lp1412
+S'Koichi Sugiyama'
+p1413
+asg7
+Vhttp://vgmrips.net/files/NES/Dragon_Warrior_III_(NES).zip
+p1414
+ssS'352_TheSmurfs'
+p1415
+(dp1416
+g4
+(lp1417
+S'Alberto Jose Gonzlez'
+p1418
+asg7
+Vhttp://vgmrips.net/files/NES/The_Smurfs_(NES).zip
+p1419
+ssS'280_RoadRunner'
+p1420
+(dp1421
+g4
+(lp1422
+S'Earl Vickers'
+p1423
+aS'Gavan Anderson'
+p1424
+aS'Hal Canon'
+p1425
+aS'Tania Smith'
+p1426
+aS'Various'
+p1427
+asg7
+Vhttp://vgmrips.net/files/NES/Road_Runner_(NES).zip
+p1428
+ssS'346_TheJungleBook'
+p1429
+(dp1430
+g4
+(lp1431
+S'Neil Baldwin'
+p1432
+asg7
+Vhttp://vgmrips.net/files/NES/The_Jungle_Book_(NES).zip
+p1433
+ssS'102_FamicomDiskSystemBIOS'
+p1434
+(dp1435
+g4
+(lp1436
+S'Hirokazu Tanaka'
+p1437
+asg7
+Vhttp://vgmrips.net/files/Famicom Disk System BIOS.zip
+p1438
+ssS'148_GradiusII'
+p1439
+(dp1440
+g4
+(lp1441
+S'Hidenori Maezawa'
+p1442
+aS'Kenichi Matsubara'
+p1443
+aS'Motoaki Furukawa'
+p1444
+aS'Seiichi Fukami'
+p1445
+aS'Shinji Tasaka'
+p1446
+aS'Yukie Morimoto'
+p1447
+asg7
+Vhttp://vgmrips.net/files/NES/Gradius_II_(Family_Computer).zip
+p1448
+ssS'109_Famista_91'
+p1449
+(dp1450
+g4
+(lp1451
+S'Hiromi Shibano'
+p1452
+aS'Junko Ozawa'
+p1453
+aS'Yuriko Keino'
+p1454
+asg7
+Vhttp://vgmrips.net/files/NES/Famista_'91_(NES).zip
+p1455
+ssS'319_SuperGun'
+p1456
+(dp1457
+g4
+(lp1458
+S'Martino'
+p1459
+asg7
+Vhttp://vgmrips.net/files/NES/Super_Gun_(NES).zip
+p1460
+ssS'051_ChesterField_EpisodeIIAnkokuShinenoChousen'
+p1461
+(dp1462
+g4
+(lp1463
+S'Michiharu Hasuya'
+p1464
+aS'Mikio Saito'
+p1465
+asg7
+Vhttp://vgmrips.net/files/NES/Chester_Field_-_Episode_II_Ankoku_Shin_e_no_Chousen_(Family_Computer).zip
+p1466
+ssS'188_KidouSenshiZ_Gundam_HotScramble'
+p1467
+(dp1468
+g4
+(lp1469
+S'Neil Sedaka'
+p1470
+aS'Nobuyuki Ohnogi'
+p1471
+asg7
+Vhttp://vgmrips.net/files/NES/Kidou_Senshi_Z-Gundam_-_Hot_Scramble_(Family_Computer).zip
+p1472
+ssS'205_LesChevaliersduZodiaque_LaLegended_Or'
+p1473
+(dp1474
+g4
+(lp1475
+S'Unknown'
+p1476
+asg7
+Vhttp://vgmrips.net/files/NES/Les_Chevaliers_du_Zodiaque_-_La_Legende_d'Or_(NES).zip
+p1477
+ssS'234_Metro_Cross'
+p1478
+(dp1479
+g4
+(lp1480
+S'Nobuyuki Ohnogi'
+p1481
+aS'Unknown'
+p1482
+asg7
+Vhttp://vgmrips.net/files/NES/Metro-Cross_(NES).zip
+p1483
+ssS'371_VegasDream'
+p1484
+(dp1485
+g4
+(lp1486
+S'Kuni Kawachi'
+p1487
+asg7
+Vhttp://vgmrips.net/files/NES/Vegas_Dream_(NES).zip
+p1488
+ssS'152_Gyrodine'
+p1489
+(dp1490
+g4
+(lp1491
+S'Masamichi Yamazaki'
+p1492
+aS'Unknown'
+p1493
+asg7
+Vhttp://vgmrips.net/files/NES/Gyrodine_(NES).zip
+p1494
+ssS'357_ToujinMakyouDen_HeraclesnoEikou'
+p1495
+(dp1496
+g4
+(lp1497
+S'Unknown'
+p1498
+asg7
+Vhttp://vgmrips.net/files/NES/Toujin_Makyou_Den_-_Heracles_no_Eikou_(Family_Computer).zip
+p1499
+ssS'003_720_'
+p1500
+(dp1501
+g4
+(lp1502
+S'Earl Vickers'
+p1503
+aS'Hal Canon'
+p1504
+aS'Neil Brennan'
+p1505
+asg7
+Vhttp://vgmrips.net/files/NES/720°_(NES).zip
+p1506
+ssS'299_Solitaire'
+p1507
+(dp1508
+g4
+(lp1509
+S'Mike Smith'
+p1510
+asg7
+Vhttp://vgmrips.net/files/NES/Solitaire_(NES).zip
+p1511
+ssS'212_MTV_RemoteControl'
+p1512
+(dp1513
+g4
+(lp1514
+S'Steve Treccase'
+p1515
+aS'Nick Scarim'
+p1516
+asg7
+Vhttp://vgmrips.net/files/NES/MTV_-_Remote_Control_(NES).zip
+p1517
+ssS'189_KingKong2_IkarinoMegatonPunch'
+p1518
+(dp1519
+g4
+(lp1520
+S'Kinuyo Yamashita'
+p1521
+aS'Kiyohiro Sada'
+p1522
+aS'Satoe Terashima'
+p1523
+aS'Shinya Sakamoto'
+p1524
+asg7
+Vhttp://vgmrips.net/files/NES/King_Kong_2_-_Ikari_no_Megaton_Punch_(NES).zip
+p1525
+ssS'336_TenchioKurauII_ShokatsuKoumeiDen'
+p1526
+(dp1527
+g4
+(lp1528
+S'Yasuaki Fujita'
+p1529
+asg7
+Vhttp://vgmrips.net/files/NES/Tenchi_o_Kurau_II_-_Shokatsu_Koumei_Den_(Family_Computer).zip
+p1530
+ssS'345_TheGuardianLegend'
+p1531
+(dp1532
+g4
+(lp1533
+S'Masatomo Miyamoto'
+p1534
+aS'Takeshi Santo'
+p1535
+asg7
+Vhttp://vgmrips.net/files/NES/The_Guardian_Legend_(NES).zip
+p1536
+ssS'365_UchuuKeibitaiSDF'
+p1537
+(dp1538
+g4
+(lp1539
+S'Hideki Kanazashi'
+p1540
+aS'Jun Ishikawa'
+p1541
+asg7
+Vhttp://vgmrips.net/files/NES/Uchuu_Keibitai_SDF_(Family_Computer).zip
+p1542
+ssS'076_DonkeyKongCountry4'
+p1543
+(dp1544
+g4
+(lp1545
+S'Chen Yi'
+p1546
+aS'David Wise'
+p1547
+aS'Eveline Fischer'
+p1548
+asg7
+Vhttp://vgmrips.net/files/NES/Donkey_Kong_Country_4_(Dendy).zip
+p1549
+ssS'029_Battleship'
+p1550
+(dp1551
+g4
+(lp1552
+S'Mark Knight'
+p1553
+asg7
+Vhttp://vgmrips.net/files/NES/Battleship_(NES).zip
+p1554
+ssS'027_Batman_TheVideoGame'
+p1555
+(dp1556
+g4
+(lp1557
+S'Naoki Kodaka'
+p1558
+aS'Nobuyuki Hara'
+p1559
+asg7
+Vhttp://vgmrips.net/files/NES/Batman_-_The_Video_Game_(NES).zip
+p1560
+ssS'302_Somari'
+p1561
+(dp1562
+g4
+(lp1563
+S'Howard Drossin'
+p1564
+aS'Jun Senoue'
+p1565
+aS'Masaru Setsumaru'
+p1566
+aS'Masato Nakamura'
+p1567
+aS'Masayuki Nagao'
+p1568
+aS'Sachio Ogawa'
+p1569
+aS'Tatsuyuki Maeda'
+p1570
+aS'Tomonori Sawada'
+p1571
+aS'Unknown'
+p1572
+aS'Yuzo Koshiro'
+p1573
+asg7
+Vhttp://vgmrips.net/files/NES/Somari_(Dendy).zip
+p1574
+ssS'106_FamicomMukashiBanashi_ShinOnigashima'
+p1575
+(dp1576
+g4
+(lp1577
+S'Koji Kondo'
+p1578
+asg7
+Vhttp://vgmrips.net/files/NES/Famicom_Mukashi_Banashi_-_Shin_Onigashima_(Family_Computer_Disk_System).zip
+p1579
+ssS'107_FamicomYarou54'
+p1580
+(dp1581
+g4
+(lp1582
+S'Unknown'
+p1583
+asg7
+Vhttp://vgmrips.net/files/NES/Famicom_Yarou_54_(NES).zip
+p1584
+ssS'297_SkyKid'
+p1585
+(dp1586
+g4
+(lp1587
+S'Junko Ozawa'
+p1588
+asg7
+Vhttp://vgmrips.net/files/NES/Sky_Kid_(NES).zip
+p1589
+ssS'048_Chack_nPop'
+p1590
+(dp1591
+g4
+(lp1592
+S'Unknown'
+p1593
+aS'Yoshio Imamura'
+p1594
+asg7
+Vhttp://vgmrips.net/files/NES/Chack'n_Pop_(NES).zip
+p1595
+ssS'235_Metroid'
+p1596
+(dp1597
+g4
+(lp1598
+S'Hirokazu Tanaka'
+p1599
+asg7
+Vhttp://vgmrips.net/files/NES/Metroid_(NES).zip
+p1600
+ssS'381_Warpman'
+p1601
+(dp1602
+g4
+(lp1603
+S'Nobuyuki Ohnogi'
+p1604
+aS'Yuriko Keino'
+p1605
+asg7
+Vhttp://vgmrips.net/files/NES/Warpman_(NES).zip
+p1606
+ssS'360_Track_amp_Field'
+p1607
+(dp1608
+g4
+(lp1609
+S'Shokichi Ishihara'
+p1610
+asg7
+Vhttp://vgmrips.net/files/NES/Track_&_Field_(NES).zip
+p1611
+ssS'186_KidIcarus'
+p1612
+(dp1613
+g4
+(lp1614
+S'Hirokazu Tanaka'
+p1615
+asg7
+Vhttp://vgmrips.net/files/NES/Kid_Icarus_(NES).zip
+p1616
+ssS'256_OperationWolf'
+p1617
+(dp1618
+g4
+(lp1619
+S'Hiroshi Tuda'
+p1620
+aS'Unknown'
+p1621
+asg7
+Vhttp://vgmrips.net/files/NES/Operation_Wolf_(NES).zip
+p1622
+ssS'262_Penguin_KunWars'
+p1623
+(dp1624
+g4
+(lp1625
+S'Unknown'
+p1626
+aS'K. Fujii'
+p1627
+asg7
+Vhttp://vgmrips.net/files/NES/Penguin-Kun_Wars_(Family_Computer).zip
+p1628
+ssS'343_TheGoonies'
+p1629
+(dp1630
+g4
+(lp1631
+S'Satoe Terashima'
+p1632
+asg7
+Vhttp://vgmrips.net/files/NES/The_Goonies_(NES).zip
+p1633
+ssS'173_Ikki'
+p1634
+(dp1635
+g4
+(lp1636
+S'Hiroaki koi'
+p1637
+aS'Unknown'
+p1638
+asg7
+Vhttp://vgmrips.net/files/NES/Ikki_(NES).zip
+p1639
+ssS'404_ZippyRace'
+p1640
+(dp1641
+g4
+(lp1642
+S'Unknown'
+p1643
+asg7
+Vhttp://vgmrips.net/files/NES/Zippy_Race_(NES).zip
+p1644
+ssS'142_Ghosts_nGoblins'
+p1645
+(dp1646
+g4
+(lp1647
+S'Ayako Mori'
+p1648
+aS'Hal'
+p1649
+aS'Wood'
+p1650
+asg7
+Vhttp://vgmrips.net/files/NES/Ghosts_'n_Goblins_(NES).zip
+p1651
+ssS'151_Gumshoe'
+p1652
+(dp1653
+g4
+(lp1654
+S'Hirokazu Tanaka'
+p1655
+asg7
+Vhttp://vgmrips.net/files/NES/Gumshoe_(NES).zip
+p1656
+ssS'385_WizardryII_LlylgamynnoIsan'
+p1657
+(dp1658
+g4
+(lp1659
+S'Kentaro Haneda'
+p1660
+asg7
+Vhttp://vgmrips.net/files/NES/Wizardry_II_-_Llylgamyn_no_Isan_(Family_Computer).zip
+p1661
+ssS'150_GuerrillaWar'
+p1662
+(dp1663
+g4
+(lp1664
+S'Kazuhiro Nishida'
+p1665
+aS'Oh Chan'
+p1666
+aS'Toshikazu Tanaka'
+p1667
+asg7
+Vhttp://vgmrips.net/files/NES/Guerrilla_War_(NES).zip
+p1668
+ssS'108_Famista_90'
+p1669
+(dp1670
+g4
+(lp1671
+S'Junko Ozawa'
+p1672
+aS'Yuriko Keino'
+p1673
+asg7
+Vhttp://vgmrips.net/files/NES/Famista_'90_(NES).zip
+p1674
+ssS'242_MississippiSatsujinJiken'
+p1675
+(dp1676
+g4
+(lp1677
+S'Ed Bogas'
+p1678
+asg7
+Vhttp://vgmrips.net/files/NES/Mississippi_Satsujin_Jiken_(Family_Computer).zip
+p1679
+ssS'099_F_1Race'
+p1680
+(dp1681
+g4
+(lp1682
+S'Hideki Kanazashi'
+p1683
+asg7
+Vhttp://vgmrips.net/files/NES/F-1_Race_(NES).zip
+p1684
+ssS'115_FelixtheCat'
+p1685
+(dp1686
+g4
+(lp1687
+S'Li Meng'
+p1688
+asg7
+Vhttp://vgmrips.net/files/NES/Felix_the_Cat_(Dendy).zip
+p1689
+ssS'079_DoubleDragonIII_TheSacredStones'
+p1690
+(dp1691
+g4
+(lp1692
+S'Akira Inoue'
+p1693
+aS'Michiya Hirasawa'
+p1694
+aS'Takaro Nozaki'
+p1695
+aS'Yoshihiro Kameoka'
+p1696
+asg7
+Vhttp://vgmrips.net/files/NES/Double_Dragon_III_-_The_Sacred_Stones_(NES).zip
+p1697
+ssS'387_Wizardry_ProvingGroundsofTheMadOverlord'
+p1698
+(dp1699
+g4
+(lp1700
+S'Kentaro Haneda'
+p1701
+asg7
+Vhttp://vgmrips.net/files/NES/Wizardry_-_Proving_Grounds_of_The_Mad_Overlord_(NES).zip
+p1702
+ssS'326_SuperPitfall'
+p1703
+(dp1704
+g4
+(lp1705
+S'Hirofumi Ino'
+p1706
+asg7
+Vhttp://vgmrips.net/files/NES/Super_Pitfall_(NES).zip
+p1707
+ssS'206_LifeForce'
+p1708
+(dp1709
+g4
+(lp1710
+S'Atsushi Fujio'
+p1711
+aS'Hidenori Maezawa'
+p1712
+aS'Miki Higashino'
+p1713
+aS'Satoe Terashima'
+p1714
+aS'Shinya Sakamoto'
+p1715
+asg7
+Vhttp://vgmrips.net/files/NES/Life_Force_(NES).zip
+p1716
+ssS'034_BlasterMaster'
+p1717
+(dp1718
+g4
+(lp1719
+S'Naoki Kodaka'
+p1720
+asg7
+Vhttp://vgmrips.net/files/NES/Blaster_Master_(NES).zip
+p1721
+ssS'368_Ultima_QuestoftheAvatar'
+p1722
+(dp1723
+g4
+(lp1724
+S'Kazuo Sawa'
+p1725
+aS'Ken Arnold'
+p1726
+aS'Seiji Toda'
+p1727
+aS'Thomas Arne'
+p1728
+asg7
+Vhttp://vgmrips.net/files/NES/Ultima_-_Quest_of_the_Avatar_(NES).zip
+p1729
+ssS'098_Exerion'
+p1730
+(dp1731
+g4
+(lp1732
+S'Unknown'
+p1733
+asg7
+Vhttp://vgmrips.net/files/NES/Exerion_(NES).zip
+p1734
+ssS'036_BombermanII'
+p1735
+(dp1736
+g4
+(lp1737
+S'June Chikuma'
+p1738
+aS'Osamu Narita'
+p1739
+asg7
+Vhttp://vgmrips.net/files/NES/Bomberman_II_(NES).zip
+p1740
+ssS'181_KainoBouken_TheQuestofKi'
+p1741
+(dp1742
+g4
+(lp1743
+S'Junko Ozawa'
+p1744
+aS'Nobuyuki Ohnogi'
+p1745
+aS'Takeru Hikono'
+p1746
+asg7
+Vhttp://vgmrips.net/files/NES/Kai_no_Bouken_-_The_Quest_of_Ki_(NES).zip
+p1747
+ssS'007_AfterBurner'
+p1748
+(dp1749
+g4
+(lp1750
+S'Hiroshi Kawaguchi'
+p1751
+aS'Unknown'
+p1752
+asg7
+Vhttp://vgmrips.net/files/NES/After_Burner_(NES).zip
+p1753
+ssS'224_MegaMan'
+p1754
+(dp1755
+g4
+(lp1756
+S'Manami Matsumae'
+p1757
+asg7
+Vhttp://vgmrips.net/files/NES/Mega_Man_(NES).zip
+p1758
+ssS'328_SuperXevious_GAMPnoNazo'
+p1759
+(dp1760
+g4
+(lp1761
+S'Unknown'
+p1762
+aS'Yuriko Keino'
+p1763
+asg7
+Vhttp://vgmrips.net/files/NES/Super_Xevious_-_GAMP_no_Nazo_(Family_Computer).zip
+p1764
+ssS'394_Yoshi_sCookie'
+p1765
+(dp1766
+g4
+(lp1767
+S'Akira Sato'
+p1768
+aS'Nobuya Ikuta'
+p1769
+aS'Noriko Nishizaka'
+p1770
+asg7
+Vhttp://vgmrips.net/files/NES/Yoshi's_Cookie_(NES).zip
+p1771
+ssS'136_GanbareGoemon_KarakuriDouchuu'
+p1772
+(dp1773
+g4
+(lp1774
+S'Konami Kukeiha Club'
+p1775
+asg7
+Vhttp://vgmrips.net/files/NES/Ganbare_Goemon!_Karakuri_Douchuu_(Family_Computer).zip
+p1776
+ssS'127_FlyingWarriors'
+p1777
+(dp1778
+g4
+(lp1779
+S'Shunichi Mikame'
+p1780
+aS'Unknown'
+p1781
+aS'Yuki Kume'
+p1782
+asg7
+Vhttp://vgmrips.net/files/NES/Flying_Warriors_(NES).zip
+p1783
+ssS'037_BoobyKids'
+p1784
+(dp1785
+g4
+(lp1786
+S'Kenji Yoshida'
+p1787
+asg7
+Vhttp://vgmrips.net/files/NES/Booby_Kids_(NES).zip
+p1788
+ssS'210_LowGMan_TheLowGravityMan'
+p1789
+(dp1790
+g4
+(lp1791
+S'Nobuyuki Shioda'
+p1792
+aS'Norio Nakagata'
+p1793
+aS'Ryota Musha'
+p1794
+asg7
+Vhttp://vgmrips.net/files/NES/Low_G_Man_-_The_Low_Gravity_Man_(NES).zip
+p1795
+ssS'261_Parodius'
+p1796
+(dp1797
+g4
+(lp1798
+S'Cameo Matano'
+p1799
+aS'Dokuo Umeno'
+p1800
+aS'Hiroshi Takeyasu'
+p1801
+aS'Tomoya Tomita'
+p1802
+aS'Various'
+p1803
+asg7
+Vhttp://vgmrips.net/files/NES/Parodius_(NES).zip
+p1804
+ssS'266_PoolofRadiance'
+p1805
+(dp1806
+g4
+(lp1807
+S'Seiji Toda'
+p1808
+asg7
+Vhttp://vgmrips.net/files/NES/Pool_of_Radiance_(NES).zip
+p1809
+ssS'050_ChaosWorld'
+p1810
+(dp1811
+g4
+(lp1812
+S'Hiroyuki Iwatsuki'
+p1813
+aS'Iku Mizutani'
+p1814
+asg7
+Vhttp://vgmrips.net/files/NES/Chaos_World_(Family_Computer).zip
+p1815
+ssS'077_DonkeyKongJr_'
+p1816
+(dp1817
+g4
+(lp1818
+S'Yukio Kaneoka'
+p1819
+asg7
+Vhttp://vgmrips.net/files/NES/Donkey_Kong_Jr._(NES).zip
+p1820
+ssS'111_FantasyZone'
+p1821
+(dp1822
+g4
+(lp1823
+S'Hiroshi Kawaguchi'
+p1824
+aS'Naohisa Morota'
+p1825
+asg7
+Vhttp://vgmrips.net/files/NES/Fantasy_Zone_(NES).zip
+p1826
+ssS'155_HeraclesnoEikouII_TitannoMetsubou'
+p1827
+(dp1828
+g4
+(lp1829
+S'Masaaki Iwasaki'
+p1830
+aS'Seiichi Hamada'
+p1831
+aS'Shogo Sakai'
+p1832
+aS'Takafumi Miura'
+p1833
+aS'Yuji Suzuki'
+p1834
+aS'Yusuke Takahama'
+p1835
+asg7
+Vhttp://vgmrips.net/files/NES/Heracles_no_Eikou_II_-_Titan_no_Metsubou_(Family_Computer).zip
+p1836
+ssS'250_NinjaGaiden'
+p1837
+(dp1838
+g4
+(lp1839
+S'Keiji Yamagishi'
+p1840
+aS'Ryuichi Nitta'
+p1841
+asg7
+Vhttp://vgmrips.net/files/NES/Ninja_Gaiden_(NES).zip
+p1842
+ssS'334_Target_Renegade'
+p1843
+(dp1844
+g4
+(lp1845
+S'Tim Follin'
+p1846
+asg7
+Vhttp://vgmrips.net/files/NES/Target_-_Renegade_(NES).zip
+p1847
+ssS'272_Quarth'
+p1848
+(dp1849
+g4
+(lp1850
+S'Norio Hanzawa'
+p1851
+aS'Unknown'
+p1852
+asg7
+Vhttp://vgmrips.net/files/NES/Quarth_(Family_Computer).zip
+p1853
+ssS'390_Xevious'
+p1854
+(dp1855
+g4
+(lp1856
+S'Yuriko Keino'
+p1857
+asg7
+Vhttp://vgmrips.net/files/NES/Xevious_(NES).zip
+p1858
+ssS'167_Hudson_sAdventureIsland'
+p1859
+(dp1860
+g4
+(lp1861
+S'June Chikuma'
+p1862
+asg7
+Vhttp://vgmrips.net/files/NES/Hudson's_Adventure_Island_(NES).zip
+p1863
+ssS'028_BattleCity'
+p1864
+(dp1865
+g4
+(lp1866
+S'Junko Ozawa'
+p1867
+asg7
+Vhttp://vgmrips.net/files/NES/Battle_City_(NES).zip
+p1868
+ssS'020_Athena'
+p1869
+(dp1870
+g4
+(lp1871
+S'Unknown'
+p1872
+asg7
+Vhttp://vgmrips.net/files/NES/Athena_(NES).zip
+p1873
+ssS'175_IndianaJonesandtheTempleofDoom'
+p1874
+(dp1875
+g4
+(lp1876
+S'Brad Fuller'
+p1877
+aS'John Williams'
+p1878
+asg7
+Vhttp://vgmrips.net/files/NES/Indiana_Jones_and_the_Temple_of_Doom_(NES).zip
+p1879
+ssS'134_GanbareGoemon2'
+p1880
+(dp1881
+g4
+(lp1882
+S'Kouji Murata'
+p1883
+aS'Michiru Yamane'
+p1884
+asg7
+Vhttp://vgmrips.net/files/NES/Ganbare_Goemon_2_(Family_Computer).zip
+p1885
+ssS'257_OverHorizon'
+p1886
+(dp1887
+g4
+(lp1888
+S'Masaharu Iwata'
+p1889
+asg7
+Vhttp://vgmrips.net/files/NES/Over_Horizon_(NES).zip
+p1890
+ssS'040_BurgerTime'
+p1891
+(dp1892
+g4
+(lp1893
+S'Unknown'
+p1894
+asg7
+Vhttp://vgmrips.net/files/NES/BurgerTime_(NES).zip
+p1895
+ssS'184_KekkyokuNankyokuDaibouken'
+p1896
+(dp1897
+g4
+(lp1898
+S'Unknown'
+p1899
+asg7
+Vhttp://vgmrips.net/files/NES/Kekkyoku_Nankyoku_Daibouken_(NES).zip
+p1900
+ssS'165_HolyDiver'
+p1901
+(dp1902
+g4
+(lp1903
+S'Masahiko Ishida'
+p1904
+asg7
+Vhttp://vgmrips.net/files/NES/Holy_Diver_(Family_Computer).zip
+p1905
+ssS'057_CluCluLand'
+p1906
+(dp1907
+g4
+(lp1908
+S'Akito Nakatsuka'
+p1909
+asg7
+Vhttp://vgmrips.net/files/NES/Clu_Clu_Land_(NES).zip
+p1910
+ssS'259_Pac_Man'
+p1911
+(dp1912
+g4
+(lp1913
+S'Hiroki Aoyagi'
+p1914
+aS'Toshio Kai'
+p1915
+asg7
+Vhttp://vgmrips.net/files/NES/Pac-Man_(NES).zip
+p1916
+ssS'364_TwinCobra'
+p1917
+(dp1918
+g4
+(lp1919
+S'Masahiro Yuge'
+p1920
+aS'Takahiko Nagaya'
+p1921
+aS'Tatsuya Uemura'
+p1922
+asg7
+Vhttp://vgmrips.net/files/NES/Twin_Cobra_(NES).zip
+p1923
+ssS'140_GetsuFuumaDen'
+p1924
+(dp1925
+g4
+(lp1926
+S'Hidenori Maezawa'
+p1927
+asg7
+Vhttp://vgmrips.net/files/NES/Getsu_Fuuma_Den_(Family_Computer).zip
+p1928
+ssS'196_KujakuOu'
+p1929
+(dp1930
+g4
+(lp1931
+S'Tsugutoshi Goto'
+p1932
+asg7
+Vhttp://vgmrips.net/files/NES/Kujaku_Ou_(Family_Computer).zip
+p1933
+ssS'298_SolarJetman_HuntfortheGoldenWarpship'
+p1934
+(dp1935
+g4
+(lp1936
+S'David Wise'
+p1937
+asg7
+Vhttp://vgmrips.net/files/NES/Solar_Jetman_-_Hunt_for_the_Golden_Warpship_(NES).zip
+p1938
+ssS'333_Tama_amp_Friends_3ChoumeDaibouken'
+p1939
+(dp1940
+g4
+(lp1941
+S'Masaaki Harada'
+p1942
+aS'Osamu Kasai'
+p1943
+asg7
+Vhttp://vgmrips.net/files/NES/Tama_&_Friends_-_3_Choume_Daibouken_(Famicom_Disk_System).zip
+p1944
+ssS'402_ZeldanoDensetsu'
+p1945
+(dp1946
+g4
+(lp1947
+S'Koji Kondo'
+p1948
+asg7
+Vhttp://vgmrips.net/files/NES/Zelda_no_Densetsu_(Family_Computer_Disk_System).zip
+p1949
+ssS'375_Vs_Excitebike'
+p1950
+(dp1951
+g4
+(lp1952
+S'Soyo Oka'
+p1953
+asg7
+Vhttp://vgmrips.net/files/NES/Vs._Excitebike_(Family_Computer_Disk_System).zip
+p1954
+ssS'065_DefenderII'
+p1955
+(dp1956
+g4
+(lp1957
+S'Koji Kondo'
+p1958
+aS'Yukio Kaneoka'
+p1959
+asg7
+Vhttp://vgmrips.net/files/NES/Defender_II_(NES).zip
+p1960
+ssS'067_DevilWorld'
+p1961
+(dp1962
+g4
+(lp1963
+S'Akito Nakatsuka'
+p1964
+aS'Koji Kondo'
+p1965
+asg7
+Vhttp://vgmrips.net/files/NES/Devil_World_(NES).zip
+p1966
+ssS'362_TwinBee'
+p1967
+(dp1968
+g4
+(lp1969
+S'Shigeru Fukutake'
+p1970
+aS'Yoshinori Sasaki'
+p1971
+asg7
+Vhttp://vgmrips.net/files/NES/TwinBee_(Family_Computer).zip
+p1972
+ssS'095_Excitebike'
+p1973
+(dp1974
+g4
+(lp1975
+S'Akito Nakatsuka'
+p1976
+asg7
+Vhttp://vgmrips.net/files/NES/Excitebike_(NES,_Hyundai_Comboy).zip
+p1977
+ssS'026_Batman_ReturnofTheJoker'
+p1978
+(dp1979
+g4
+(lp1980
+S'Naoki Kodaka'
+p1981
+aS'Nobuyuki Hara'
+p1982
+aS'Shinichi Seya'
+p1983
+asg7
+Vhttp://vgmrips.net/files/NES/Batman_-_Return_of_The_Joker_(NES).zip
+p1984
+ssS'145_Golgo13_TopSecretEpisode'
+p1985
+(dp1986
+g4
+(lp1987
+S'Michiharu Hasuya'
+p1988
+asg7
+Vhttp://vgmrips.net/files/NES/Golgo_13_-_Top_Secret_Episode_(Family_Computer).zip
+p1989
+ssS'202_LawnMower'
+p1990
+(dp1991
+g4
+(lp1992
+S'Alex Semenov'
+p1993
+asg7
+Vhttp://vgmrips.net/files/NES/Lawn_Mower_(NES).zip
+p1994
+ssS'001_1942'
+p1995
+(dp1996
+g4
+(lp1997
+S'Ayako Mori'
+p1998
+asg7
+Vhttp://vgmrips.net/files/NES/1942_(NES).zip
+p1999
+ssS'367_Ultima_Exodus'
+p2000
+(dp2001
+g4
+(lp2002
+S'Tsugutoshi Goto'
+p2003
+asg7
+Vhttp://vgmrips.net/files/NES/Ultima_-_Exodus_(NES).zip
+p2004
+ssS'237_MightyBombJack'
+p2005
+(dp2006
+g4
+(lp2007
+S'Michiharu Hasuya'
+p2008
+aS'Tsukasa Masuko'
+p2009
+asg7
+Vhttp://vgmrips.net/files/NES/Mighty_Bomb_Jack_(NES).zip
+p2010
+ssS'374_Vs_DuckHunt'
+p2011
+(dp2012
+g4
+(lp2013
+S'Hirokazu Tanaka'
+p2014
+asg7
+Vhttp://vgmrips.net/files/Arcade/Vs._Duck_Hunt_(Nintendo_Vs._Unisystem).zip
+p2015
+ssS'377_Vs_RaidonBungelingBay'
+p2016
+(dp2017
+g4
+(lp2018
+S'Unknown'
+p2019
+asg7
+Vhttp://vgmrips.net/files/Arcade/Vs_Raid_on_Bungeling_Bay_(VS_System).zip
+p2020
+ssS'132_Galaxian'
+p2021
+(dp2022
+g4
+(lp2023
+S'Haruhisa Udagawa'
+p2024
+asg7
+Vhttp://vgmrips.net/files/NES/Galaxian_(NES).zip
+p2025
+ssS'231_MetalFighter_'
+p2026
+(dp2027
+g4
+(lp2028
+S'Unknown'
+p2029
+asg7
+Vhttp://vgmrips.net/files/NES/Metal_Fighter_(NES).zip
+p2030
+ssS'133_GallForce_EternalStory'
+p2031
+(dp2032
+g4
+(lp2033
+S'Hideki Kanazashi'
+p2034
+aS'Hiroaki Suga'
+p2035
+asg7
+Vhttp://vgmrips.net/files/NES/Gall_Force_-_Eternal_Story_(Nintendo_Famicom_Disk_System).zip
+p2036
+ssS'146_GomokuNarabeRenju'
+p2037
+(dp2038
+g4
+(lp2039
+S'Yukio Kaneoka'
+p2040
+asg7
+Vhttp://vgmrips.net/files/NES/Gomoku_Narabe_Renju_(Family_Computer).zip
+p2041
+ssS'177_IronTank_TheInvasionofNormandy'
+p2042
+(dp2043
+g4
+(lp2044
+S'Kazuhiro Nishida'
+p2045
+aS'Masakazu Yuasa'
+p2046
+aS'Oba'
+p2047
+aS'Oh Chan'
+p2048
+aS'Toshikazu Tanaka'
+p2049
+aS'Yoko Osaka'
+p2050
+asg7
+Vhttp://vgmrips.net/files/NES/Iron_Tank_-_The_Invasion_of_Normandy_(NES).zip
+p2051
+ssS'255_NobunaganoYabou_BushouFuunroku'
+p2052
+(dp2053
+g4
+(lp2054
+S'Yoko Kanno'
+p2055
+asg7
+Vhttp://vgmrips.net/files/NES/Nobunaga_no_Yabou_-_Bushou_Fuunroku_(NES).zip
+p2056
+ssS'286_Rygar'
+p2057
+(dp2058
+g4
+(lp2059
+S'Michiharu Hasuya'
+p2060
+asg7
+Vhttp://vgmrips.net/files/NES/Rygar_(NES).zip
+p2061
+ssS'002_1943_TheBattleofMidway'
+p2062
+(dp2063
+g4
+(lp2064
+S'Kumi Yamaga'
+p2065
+asg7
+Vhttp://vgmrips.net/files/NES/1943_-_The_Battle_of_Midway_(NES).zip
+p2066
+ssS'113_FantasyZoneII_TheTeardropofOpa_Opa'
+p2067
+(dp2068
+g4
+(lp2069
+S'Noboru Machida'
+p2070
+aS'Tokuhiko Uwabo'
+p2071
+asg7
+Vhttp://vgmrips.net/files/NES/Fantasy_Zone_II_-_The_Teardrop_of_Opa-Opa_(NES).zip
+p2072
+ssS'199_Labyrinth_MaounoMeikyu'
+p2073
+(dp2074
+g4
+(lp2075
+S'Tsukasa Masuko'
+p2076
+aS'David Bowie'
+p2077
+aS'Trevor Jones'
+p2078
+asg7
+Vhttp://vgmrips.net/files/NES/Labyrinth_-_Maou_no_Meikyu_(Family_Computer).zip
+p2079
+ssS'228_MegaMan5'
+p2080
+(dp2081
+g4
+(lp2082
+S'Mari Yamaguchi'
+p2083
+aS'Takashi Tateishi'
+p2084
+aS'Yasuaki Fujita'
+p2085
+asg7
+Vhttp://vgmrips.net/files/NES/Mega_Man_5_(NES).zip
+p2086
+ssS'012_AlphaMission'
+p2087
+(dp2088
+g4
+(lp2089
+S'Yoko Osaka'
+p2090
+asg7
+Vhttp://vgmrips.net/files/NES/Alpha_Mission_(NES).zip
+p2091
+ssS'005_Abadox_TheDeadlyInnerWar'
+p2092
+(dp2093
+g4
+(lp2094
+S'Kiyohiro Sada'
+p2095
+asg7
+Vhttp://vgmrips.net/files/NES/Abadox_-_The_Deadly_Inner_War_(NES).zip
+p2096
+ssS'085_DragonBusterII_YaminoFuuin'
+p2097
+(dp2098
+g4
+(lp2099
+S'Unknown'
+p2100
+asg7
+Vhttp://vgmrips.net/files/NES/Dragon_Buster_II_-_Yami_no_Fuuin_(Family_Computer).zip
+p2101
+ssS'274_R_C_Pro_Am'
+p2102
+(dp2103
+g4
+(lp2104
+S'David Wise'
+p2105
+asg7
+Vhttp://vgmrips.net/files/NES/R.C._Pro-Am_(NES).zip
+p2106
+ssS'000_10_YardFight'
+p2107
+(dp2108
+g4
+(lp2109
+S'Unknown'
+p2110
+asg7
+Vhttp://vgmrips.net/files/NES/10-Yard_Fight_(NES).zip
+p2111
+ssS'401_ZeldaII_TheAdventureofLink'
+p2112
+(dp2113
+g4
+(lp2114
+S'Akito Nakatsuka'
+p2115
+asg7
+Vhttp://vgmrips.net/files/NES/Zelda_II_-_The_Adventure_of_Link_(NES).zip
+p2116
+ssS'125_FlyingDragon_TheSecretScroll'
+p2117
+(dp2118
+g4
+(lp2119
+S'Shunichi Mikame'
+p2120
+aS'Unknown'
+p2121
+asg7
+Vhttp://vgmrips.net/files/NES/Flying_Dragon_-_The_Secret_Scroll_(NES).zip
+p2122
+ssS'386_Wizardry_KnightofDiamonds_TheSecondScenario'
+p2123
+(dp2124
+g4
+(lp2125
+S'Kentaro Haneda'
+p2126
+asg7
+Vhttp://vgmrips.net/files/NES/Wizardry_-_Knight_of_Diamonds_-_The_Second_Scenario_(NES).zip
+p2127
+ssS'119_FinalFantasyIII'
+p2128
+(dp2129
+g4
+(lp2130
+S'Ludwig van Beethoven'
+p2131
+aS'Nobuo Uematsu'
+p2132
+aS'Unknown'
+p2133
+asg7
+Vhttp://vgmrips.net/files/NES/Final_Fantasy_III_(Family_Computer).zip
+p2134
+ssS'384_Wit_s'
+p2135
+(dp2136
+g4
+(lp2137
+S'Kouichi Ishibashi'
+p2138
+aS'Shotaro Sasaki'
+p2139
+asg7
+Vhttp://vgmrips.net/files/NES/Wit's_(Family_Computer).zip
+p2140
+ssS'218_ManiacMansion'
+p2141
+(dp2142
+g4
+(lp2143
+S'David Warhol'
+p2144
+asg7
+Vhttp://vgmrips.net/files/NES/Maniac_Mansion_(NES).zip
+p2145
+ssS'154_HappilyEverAfter'
+p2146
+(dp2147
+g4
+(lp2148
+S'Hirohiko Takayama'
+p2149
+aS'Tsukasa Masuko'
+p2150
+asg7
+Vhttp://vgmrips.net/files/NES/Happily_Ever_After_(NES).zip
+p2151
+ssS'296_SkyDestroyer'
+p2152
+(dp2153
+g4
+(lp2154
+S'Unknown'
+p2155
+asg7
+Vhttp://vgmrips.net/files/NES/Sky_Destroyer_(NES).zip
+p2156
+ssS'273_R_B_I_Baseball'
+p2157
+(dp2158
+g4
+(lp2159
+S'Norio Nakagata'
+p2160
+asg7
+Vhttp://vgmrips.net/files/NES/RBI_Baseball_(NES).zip
+p2161
+ssS'137_GansoSaiyuuki_SuperMonkeyDaibouken'
+p2162
+(dp2163
+g4
+(lp2164
+S'Unknown'
+p2165
+asg7
+Vhttp://vgmrips.net/files/NES/Ganso_Saiyuuki_-_Super_Monkey_Daibouken_(Family_Computer).zip
+p2166
+ssS'178_Ironsword_Wizards_amp_WarriorsII'
+p2167
+(dp2168
+g4
+(lp2169
+S'David Wise'
+p2170
+aS'Steve Hughes'
+p2171
+asg7
+Vhttp://vgmrips.net/files/NES/Ironsword_-_Wizards_&_Warriors_II_(NES).zip
+p2172
+ssS'087_DragonSpirit_TheNewLegend'
+p2173
+(dp2174
+g4
+(lp2175
+S'Masakatsu Maekawa'
+p2176
+aS'Shinji Hosoe'
+p2177
+asg7
+Vhttp://vgmrips.net/files/NES/Dragon_Spirit_-_The_New_Legend_(NES).zip
+p2178
+ssS'200_LagrangePoint'
+p2179
+(dp2180
+g4
+(lp2181
+S'Akio Dobashi'
+p2182
+aS'Konami Kukeiha Club'
+p2183
+aS'Tadashi Sawashita'
+p2184
+aS'Aki Hata'
+p2185
+aS'Noriyuki Takahashi'
+p2186
+aS'Kenji Nakamura'
+p2187
+aS'Makoto Kawamoto'
+p2188
+asg7
+Vhttp://vgmrips.net/files/NES/Lagrange_Point_(Family_Computer).zip
+p2189
+ssS'160_HiryunoKenIII_5NinnoRyuSenshi'
+p2190
+(dp2191
+g4
+(lp2192
+S'Shunichi Mikame'
+p2193
+aS'Unknown'
+p2194
+aS'Yuki Kume'
+p2195
+asg7
+Vhttp://vgmrips.net/files/NES/Hiryu_no_Ken_III_-_5_Nin_no_Ryu_Senshi_(Family_Computer).zip
+p2196
+ssS'041_Caesar_sPalace'
+p2197
+(dp2198
+g4
+(lp2199
+S'David Hayes'
+p2200
+asg7
+Vhttp://vgmrips.net/files/NES/Caesar's_Palace_(NES).zip
+p2201
+ssS'351_ThePandaPrince'
+p2202
+(dp2203
+g4
+(lp2204
+S'Eveline Fischer'
+p2205
+aS'Dave Wise'
+p2206
+aS'Robin Beanland'
+p2207
+aS'arr. Yho Yng'
+p2208
+asg7
+Vhttp://vgmrips.net/files/NES/The_Panda_Prince_(NES).zip
+p2209
+ssS'011_Aliens_Alien2'
+p2210
+(dp2211
+g4
+(lp2212
+S'Nobuo Uematsu'
+p2213
+asg7
+Vhttp://vgmrips.net/files/NES/Aliens_-_Alien_2_(Family_Computer_Disk_System).zip
+p2214
+ssS'341_TheFlintstones_TheRescueofDino_amp_Hoppy'
+p2215
+(dp2216
+g4
+(lp2217
+S'Hoyt Curtin'
+p2218
+aS'Naoto Yagishita'
+p2219
+aS'Yasuko Yamada'
+p2220
+asg7
+Vhttp://vgmrips.net/files/NES/The_Flintstones_-_The_Rescue_of_Dino_&_Hoppy_(NES).zip
+p2221
+ssS'094_ElevatorAction'
+p2222
+(dp2223
+g4
+(lp2224
+S'Unknown'
+p2225
+aS'Yoshio Imamura'
+p2226
+asg7
+Vhttp://vgmrips.net/files/NES/Elevator_Action_(NES).zip
+p2227
+ssS'023_BalloonFight'
+p2228
+(dp2229
+g4
+(lp2230
+S'Hirokazu Tanaka'
+p2231
+asg7
+Vhttp://vgmrips.net/files/NES/Balloon_Fight_(NES).zip
+p2232
+ssS'049_Challenger'
+p2233
+(dp2234
+g4
+(lp2235
+S'Takeaki Kunimoto'
+p2236
+asg7
+Vhttp://vgmrips.net/files/NES/Challenger_(NES).zip
+p2237
+ssS'300_Solomon_sKey'
+p2238
+(dp2239
+g4
+(lp2240
+S'Michiharu Hasuya'
+p2241
+aS'Mikio Saito'
+p2242
+asg7
+Vhttp://vgmrips.net/files/NES/Solomon's_Key_(NES).zip
+p2243
+ssS'349_TheLegendofZelda2_LinknoBouken'
+p2244
+(dp2245
+g4
+(lp2246
+S'Akito Nakatsuka'
+p2247
+asg7
+Vhttp://vgmrips.net/files/NES/The_Legend_of_Zelda_2_-_Link_no_Bouken_(Family_Computer_Disk_System).zip
+p2248
+ssS'317_SuperC'
+p2249
+(dp2250
+g4
+(lp2251
+S'Kazuki Muraoka'
+p2252
+aS'Hidenori Maezawa'
+p2253
+aS'Motoaki Furukawa'
+p2254
+asg7
+Vhttp://vgmrips.net/files/NES/Super_Contra_(NES).zip
+p2255
+ssS'331_TaitoChaseH_Q_'
+p2256
+(dp2257
+g4
+(lp2258
+S'Isao Mizuguchi'
+p2259
+aS'Takami Asano'
+p2260
+asg7
+Vhttp://vgmrips.net/files/NES/Taito_Chase_H.Q._(NES).zip
+p2261
+ssS'038_BubbleBobble'
+p2262
+(dp2263
+g4
+(lp2264
+S'Tadashi Kimijima'
+p2265
+asg7
+Vhttp://vgmrips.net/files/NES/Bubble_Bobble_(NES).zip
+p2266
+ssS'363_TwinBee3_PokoPokoDaimaou'
+p2267
+(dp2268
+g4
+(lp2269
+S'Atsushi Fujio'
+p2270
+aS'Hidehiro Funauchi'
+p2271
+aS'Katsuhiko Suzuki'
+p2272
+aS'Konami Kukeiha Club'
+p2273
+asg7
+Vhttp://vgmrips.net/files/NES/TwinBee_3_-_Poko_Poko_Daimaou_(Family_Computer).zip
+p2274
+ssS'006_Adam_amp_Eve'
+p2275
+(dp2276
+g4
+(lp2277
+S'Unknown'
+p2278
+asg7
+Vhttp://vgmrips.net/files/NES/Adam_&_Eve_(NES).zip
+p2279
+ssS'277_RainbowIslands_TheStoryofBubbleBobble2'
+p2280
+(dp2281
+g4
+(lp2282
+S'Kazuyuki Ohnui'
+p2283
+aS'Masahiko Takaki'
+p2284
+aS'Naoto Yagishita'
+p2285
+aS'Shizuo Aizawa'
+p2286
+aS'Shotaro'
+p2287
+aS'Various'
+p2288
+asg7
+Vhttp://vgmrips.net/files/NES/Rainbow_Islands_-_The__Story_of_Bubble_Bobble_2_(NES).zip
+p2289
+ssS'254_Nobunaga_sAmbitionII'
+p2290
+(dp2291
+g4
+(lp2292
+S'Mitsuo Yamamoto'
+p2293
+aS'Yoko Kanno'
+p2294
+asg7
+Vhttp://vgmrips.net/files/NES/Nobunaga's_Ambition_II_(NES).zip
+p2295
+ssS'016_ArkanoidII'
+p2296
+(dp2297
+g4
+(lp2298
+S'Hisayoshi Ogura'
+p2299
+aS'Unknown'
+p2300
+asg7
+Vhttp://vgmrips.net/files/NES/Arkanoid_II_(NES).zip
+p2301
+ssS'350_TheMafatConspiracy'
+p2302
+(dp2303
+g4
+(lp2304
+S'Michiharu Hasuya'
+p2305
+aS'Toshiko Tasaki'
+p2306
+asg7
+Vhttp://vgmrips.net/files/NES/The_Mafat_Conspiracy_(NES).zip
+p2307
+ssS'229_MegaMan6'
+p2308
+(dp2309
+g4
+(lp2310
+S'Takashi Tateishi'
+p2311
+aS'Yasuaki Fujita'
+p2312
+aS'Yuko Takehara'
+p2313
+asg7
+Vhttp://vgmrips.net/files/NES/Mega_Man_6_(NES).zip
+p2314
+ssS'236_MickeyMousecapade'
+p2315
+(dp2316
+g4
+(lp2317
+S'Takeaki Kunimoto'
+p2318
+asg7
+Vhttp://vgmrips.net/files/NES/Mickey_Mousecapade_(NES).zip
+p2319
+ssS'353_TheTowerofDruaga'
+p2320
+(dp2321
+g4
+(lp2322
+S'Junko Ozawa'
+p2323
+asg7
+Vhttp://vgmrips.net/files/NES/The_Tower_of_Druaga_(NES).zip
+p2324
+ssS'069_DigDug'
+p2325
+(dp2326
+g4
+(lp2327
+S'Yuriko Keino'
+p2328
+asg7
+Vhttp://vgmrips.net/files/NES/Dig_Dug_(NES).zip
+p2329
+ssS'403_ZhongGuoXiangQi'
+p2330
+(dp2331
+g4
+(lp2332
+S'Unknown'
+p2333
+asg7
+Vhttp://vgmrips.net/files/NES/Zhong_Guo_Xiang_Qi_(Dendy).zip
+p2334
+ssS'245_MoonCrystal'
+p2335
+(dp2336
+g4
+(lp2337
+S'Tsukasa Tawada'
+p2338
+asg7
+Vhttp://vgmrips.net/files/NES/Moon_Crystal_(NES).zip
+p2339
+ssS'009_AighinanoYogen_BalubalouknoDensetsuYori'
+p2340
+(dp2341
+g4
+(lp2342
+S'Michiharu Hasuya'
+p2343
+asg7
+Vhttp://vgmrips.net/files/NES/Aighina_no_Yogen_-_Balubalouk_no_Densetsu_Yori_(Family_Computer).zip
+p2344
+ssS'354_Thexder'
+p2345
+(dp2346
+g4
+(lp2347
+S'Hibiki Godai'
+p2348
+aS'Nobuo Uematsu'
+p2349
+asg7
+Vhttp://vgmrips.net/files/NES/Thexder_(NES).zip
+p2350
+ssS'263_PhantomFighter'
+p2351
+(dp2352
+g4
+(lp2353
+S'Hironari Tadokoro'
+p2354
+asg7
+Vhttp://vgmrips.net/files/NES/Phantom_Fighter_(NES).zip
+p2355
+ssS'226_MegaMan3'
+p2356
+(dp2357
+g4
+(lp2358
+S'Harumi Fujita'
+p2359
+aS'Yasuaki Fujita'
+p2360
+asg7
+Vhttp://vgmrips.net/files/NES/Mega_Man_3_(NES).zip
+p2361
+ssS'166_Hu_ngd__Zhu_l_zh_Zh_n'
+p2362
+(dp2363
+g4
+(lp2364
+S'Asder Staff'
+p2365
+asg7
+Vhttp://vgmrips.net/files/NES/Huangdì_-_Zhuolu_zhi_Zhan_(NES).zip
+p2366
+ss.
